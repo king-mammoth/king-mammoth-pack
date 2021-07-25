@@ -1,0 +1,18 @@
+{
+	title: "New Quest",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagradditions:intermedium_paxel"
+	},
+	x: -11.0d,
+	y: -9.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d
+}

@@ -1,0 +1,27 @@
+{
+	title: "New Quest",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalexpansion:reservoir",
+		tag: {}
+	},
+	x: 3.0d,
+	y: -5.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "daa8151e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}],
+		consume_items: true
+	}]
+}

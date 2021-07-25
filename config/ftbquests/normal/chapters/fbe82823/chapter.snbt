@@ -1,0 +1,10 @@
+{
+	title: "Tier 5 Seed Nightmare",
+	icon: "minecraft:book",
+	description: [
+		"No Description"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

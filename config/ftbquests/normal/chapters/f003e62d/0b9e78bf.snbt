@@ -1,0 +1,42 @@
+{
+	title: "power bank tier 5",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {
+				AS_Amulet_HolderLeast: -7861323254270207861L,
+				AS_Amulet_HolderMost: -5242053170944128269L
+			}
+		},
+		id: "thermalexpansion:capacitor",
+		tag: {
+			Energy: 25000000
+		},
+		Damage: 4s
+	},
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"big power storage"
+	],
+	dependencies: [
+		"1ff07c5f"
+	],
+	tasks: [{
+		uid: "b0e83a0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7861323254270207861L,
+					AS_Amulet_HolderMost: -5242053170944128269L
+				}
+			},
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 25000000
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Betterer Fuel",
+	icon: {
+		id: "extraplanets:advanced_refinery",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -8.5d,
+	y: -4.0d,
+	text: [
+		"Craft an Advanced Refinery."
+	],
+	dependencies: [
+		"504ec668"
+	],
+	tasks: [{
+		uid: "28dc86ab",
+		type: "item",
+		items: [{
+			id: "extraplanets:advanced_refinery",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

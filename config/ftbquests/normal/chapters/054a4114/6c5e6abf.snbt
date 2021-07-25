@@ -1,0 +1,20 @@
+{
+	title: "Heavy Stuff",
+	icon: "galacticraftcore:heavy_plating",
+	x: -22.5d,
+	y: 4.0d,
+	text: [
+		"Craft a Heavy Duty Plating."
+	],
+	dependencies: [
+		"48104079"
+	],
+	tasks: [{
+		uid: "d325383d",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:heavy_plating"
+		}],
+		consume_items: true
+	}]
+}

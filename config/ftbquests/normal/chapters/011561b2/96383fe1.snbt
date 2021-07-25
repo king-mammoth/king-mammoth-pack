@@ -1,0 +1,20 @@
+{
+	title: "Intermedium Arrow",
+	icon: "mysticalagriculture:intermedium_arrow",
+	x: -12.5d,
+	y: -7.5d,
+	text: [
+		"Craft an Intermedium Arrow. A stronger arrow with duribility instead of having a bunch of arrows in your inventory."
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "d4ca0f22",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_arrow"
+		}]
+	}]
+}

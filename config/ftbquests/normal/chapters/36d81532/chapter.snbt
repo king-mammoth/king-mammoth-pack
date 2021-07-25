@@ -1,0 +1,10 @@
+{
+	title: "Tinker's Construct",
+	icon: "minecraft:book",
+	description: [
+		"All ores needed for early, mid, and late game."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

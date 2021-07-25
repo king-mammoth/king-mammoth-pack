@@ -1,0 +1,27 @@
+{
+	title: "Rockets Aren't Fish 5",
+	icon: {
+		id: "extraplanets:tier8_items",
+		Count: 1,
+		Damage: 2s
+	},
+	x: -14.5d,
+	y: 6.0d,
+	text: [
+		"Craft Tier 8 Rocket Fins"
+	],
+	dependencies: [
+		"dfed483a"
+	],
+	tasks: [{
+		uid: "6c697503",
+		type: "item",
+		items: [{
+			id: "extraplanets:tier8_items",
+			Count: 1,
+			Damage: 2s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

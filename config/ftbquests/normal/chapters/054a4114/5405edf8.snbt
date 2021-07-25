@@ -1,0 +1,27 @@
+{
+	title: "Wow Big Brain 5",
+	icon: {
+		id: "extraplanets:tier8_items",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -14.5d,
+	y: 10.0d,
+	text: [
+		"Craft a Tier 8 Rocket Engine."
+	],
+	dependencies: [
+		"a388d67e"
+	],
+	tasks: [{
+		uid: "710297d3",
+		type: "item",
+		items: [{
+			id: "extraplanets:tier8_items",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

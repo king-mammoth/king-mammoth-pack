@@ -1,0 +1,19 @@
+{
+	title: "Screen (Tier 1)",
+	icon: "opencomputers:screen1",
+	x: -10.5d,
+	y: -6.5d,
+	text: [
+		"Craft a Tier 1 Screen"
+	],
+	dependencies: [
+		"c9e2b3d7"
+	],
+	tasks: [{
+		uid: "4e36fc2a",
+		type: "item",
+		items: [{
+			item: "opencomputers:screen1"
+		}]
+	}]
+}

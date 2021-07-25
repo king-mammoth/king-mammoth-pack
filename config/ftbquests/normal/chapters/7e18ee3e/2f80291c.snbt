@@ -1,0 +1,34 @@
+{
+	title: "higher tier more power it needs",
+	icon: "draconicevolution:crafting_injector 1 2",
+	x: 3.0d,
+	y: 5.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "3e808f59",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 10 2"
+		}],
+		count: 10L,
+		consume_items: true
+	},
+	{
+		uid: "01a88b8b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 5"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0aebd280",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 2"
+		}],
+		consume_items: true
+	}]
+}

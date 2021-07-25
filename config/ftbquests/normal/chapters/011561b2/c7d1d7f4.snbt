@@ -1,0 +1,29 @@
+{
+	title: "Intermedium Sickle",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:intermedium_sickle"
+	},
+	x: -12.5d,
+	y: -8.0d,
+	text: [
+		"Craft an Intermedum Sickle. Breaks crops in a larger area."
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "e2484fbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:intermedium_sickle"
+		}],
+		ignore_damage: true
+	}]
+}

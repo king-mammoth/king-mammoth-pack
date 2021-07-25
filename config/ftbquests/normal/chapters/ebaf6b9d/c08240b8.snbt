@@ -1,0 +1,19 @@
+{
+	title: "Awakened Draconium",
+	icon: "draconicevolution:draconic_block",
+	x: 1.5d,
+	y: -4.5d,
+	text: [
+		"Obtain Awakened Draconium Blocks"
+	],
+	dependencies: [
+		"1a23c525"
+	],
+	tasks: [{
+		uid: "83bb59ee",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}]
+	}]
+}

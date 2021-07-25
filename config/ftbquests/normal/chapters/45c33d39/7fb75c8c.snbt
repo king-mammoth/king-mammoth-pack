@@ -1,0 +1,41 @@
+{
+	title: "Ooh this is nice",
+	icon: "compactmachines3:machine 1 2",
+	x: -10.5d,
+	y: -8.5d,
+	text: [
+		"Craft a Normal Compact Machine"
+	],
+	dependencies: [
+		"3ee11685"
+	],
+	tasks: [{
+		uid: "edfb8471",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable 26"
+		}],
+		count: 26L
+	},
+	{
+		uid: "3eb1eb99",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_block"
+		}]
+	},
+	{
+		uid: "90b8921d",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	},
+	{
+		uid: "3a317964",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "sheep chucks",
+	icon: "mysticalagriculture:chunk 1 10",
+	x: -5.0d,
+	y: 0.5d,
+	text: [
+		"sheep chucks very important"
+	],
+	dependencies: [
+		"1ba7529d"
+	],
+	tasks: [{
+		uid: "fa48981c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:chunk 16 10"
+		}],
+		count: 16L,
+		consume_items: true
+	}]
+}

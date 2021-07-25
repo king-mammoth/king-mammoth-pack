@@ -1,0 +1,27 @@
+{
+	title: "Ice Cream 4?",
+	icon: {
+		id: "extraplanets:nose_cone_tier6",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -16.5d,
+	y: 8.0d,
+	text: [
+		"Craft a Tier 6 Nose Cone."
+	],
+	dependencies: [
+		"f06f9b0b"
+	],
+	tasks: [{
+		uid: "4bc5a60c",
+		type: "item",
+		items: [{
+			id: "extraplanets:nose_cone_tier6",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

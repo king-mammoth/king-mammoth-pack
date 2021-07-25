@@ -1,0 +1,31 @@
+{
+	title: "Cargo Rocketer",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "galacticraftplanets:rocket_t2",
+		Damage: 13s
+	},
+	x: -22.5d,
+	y: 16.916666666666668d,
+	text: [
+		"Craft a Cargo Rocket which as 54 slots."
+	],
+	dependencies: [
+		"6a8cf778"
+	],
+	size: 1.6666666666666667d,
+	tasks: [{
+		uid: "01824e9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:rocket_t2",
+			Damage: 13s
+		}],
+		consume_items: true
+	}]
+}

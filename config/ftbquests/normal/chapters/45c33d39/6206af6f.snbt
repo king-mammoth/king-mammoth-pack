@@ -1,0 +1,19 @@
+{
+	title: "CPU (Tier 3)",
+	icon: "opencomputers:component 1 2",
+	x: -10.5d,
+	y: -0.5d,
+	text: [
+		"Craft a Tier 3 CPU"
+	],
+	dependencies: [
+		"0d2b98e5"
+	],
+	tasks: [{
+		uid: "2c39095d",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Microchip (Tier 2)",
+	icon: "opencomputers:material 1 8",
+	x: -6.5d,
+	y: -5.5d,
+	text: [
+		"Craft 4 Tier 2 Microchips."
+	],
+	dependencies: [
+		"69a8ba32"
+	],
+	tasks: [{
+		uid: "c23c420e",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 4 8"
+		}],
+		count: 4L
+	}]
+}

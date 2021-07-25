@@ -1,0 +1,27 @@
+{
+	title: "HSS-G Seeds",
+	icon: {
+		id: "gtadditions:hssg.seeds",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -9.75d,
+	y: -8.75d,
+	text: [
+		"HSS-G Seeds"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "2c5dfb25",
+		type: "item",
+		items: [{
+			id: "gtadditions:hssg.seeds",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

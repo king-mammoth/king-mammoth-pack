@@ -1,0 +1,31 @@
+{
+	title: "Air in a Bottle?",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "galacticraftcore:oxygen_tank_light_full",
+		Damage: 900s
+	},
+	x: -2.5d,
+	y: 4.0d,
+	text: [
+		"Craft a Light Oxygen Tank."
+	],
+	dependencies: [
+		"8bcd5bb8"
+	],
+	tasks: [{
+		uid: "e3711560",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:oxygen_tank_light_full",
+			Damage: 900s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

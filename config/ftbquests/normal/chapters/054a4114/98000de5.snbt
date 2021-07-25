@@ -1,0 +1,24 @@
+{
+	title: "Platinum Ore",
+	icon: {
+		id: "extraplanets:kepler22b",
+		Count: 1,
+		Damage: 13s
+	},
+	x: 7.5d,
+	y: -2.0d,
+	text: [
+		"Obtain Platinum Ore."
+	],
+	tasks: [{
+		uid: "4f2ee505",
+		type: "item",
+		items: [{
+			id: "extraplanets:kepler22b",
+			Count: 1,
+			Damage: 13s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

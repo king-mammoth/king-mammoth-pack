@@ -1,0 +1,19 @@
+{
+	title: "Graphics Card (Tier 2)",
+	icon: "opencomputers:card 1 2",
+	x: -16.5d,
+	y: -1.5d,
+	text: [
+		"Craft a Tier 2 Graphics Card"
+	],
+	dependencies: [
+		"574853be"
+	],
+	tasks: [{
+		uid: "4f5a6be1",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 2"
+		}]
+	}]
+}

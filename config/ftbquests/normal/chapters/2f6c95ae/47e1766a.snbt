@@ -1,0 +1,26 @@
+{
+	title: "Cozy Camp",
+	icon: {
+		id: "toughasnails:campfire",
+		Count: 1,
+		Damage: 0s
+	},
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"Craft a Campfire."
+	],
+	dependencies: [
+		"7e5b6620"
+	],
+	tasks: [{
+		uid: "f6692de4",
+		type: "item",
+		items: [{
+			id: "toughasnails:campfire",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

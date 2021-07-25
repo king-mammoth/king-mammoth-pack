@@ -1,0 +1,19 @@
+{
+	title: "Too Basic",
+	icon: "minecraft:chest",
+	x: -1.0d,
+	y: 1.0d,
+	text: [
+		"Craft an Oak Chest."
+	],
+	dependencies: [
+		"b327824b"
+	],
+	tasks: [{
+		uid: "2fa6f7bb",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}]
+}

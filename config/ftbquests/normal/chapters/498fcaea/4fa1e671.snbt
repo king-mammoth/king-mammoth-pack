@@ -1,0 +1,21 @@
+{
+	title: "New Quest",
+	icon: "mysticalagriculture:chunk 1 9",
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"c40e2df2"
+	],
+	tasks: [{
+		uid: "f1a9f0a1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:chunk 16 9"
+		}],
+		count: 16L,
+		consume_items: true
+	}]
+}

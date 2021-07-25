@@ -1,0 +1,34 @@
+{
+	title: "Tier 7 Rocket",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:item_tier7_rocket",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -6.5d,
+	y: 14.25d,
+	text: [
+		"Obtain a Tier 7 Rocket."
+	],
+	dependencies: [
+		"39282ab0"
+	],
+	size: 1.6666666666666667d,
+	tasks: [{
+		uid: "b71500fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:item_tier7_rocket",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

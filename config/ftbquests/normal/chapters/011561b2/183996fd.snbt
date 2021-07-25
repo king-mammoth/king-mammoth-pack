@@ -1,0 +1,27 @@
+{
+	title: "Sterling Silver Seeds",
+	icon: {
+		id: "gtadditions:sterling_silver.seeds",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -8.25d,
+	y: -8.25d,
+	text: [
+		"Sterling Silver Seeds"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "189e8974",
+		type: "item",
+		items: [{
+			id: "gtadditions:sterling_silver.seeds",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

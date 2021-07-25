@@ -1,0 +1,41 @@
+{
+	title: "New Quest",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalinnovation:drill",
+		Count: 1,
+		tag: {
+			Energy: 240000,
+			Mode: 2
+		},
+		Damage: 2s
+	},
+	x: -7.0d,
+	y: -1.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"fe5538a4"
+	],
+	tasks: [{
+		uid: "710bf4cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:drill",
+			Count: 1,
+			tag: {
+				Energy: 240000,
+				Mode: 2
+			},
+			Damage: 2s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

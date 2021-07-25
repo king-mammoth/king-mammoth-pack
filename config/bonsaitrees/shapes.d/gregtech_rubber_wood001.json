@@ -1,0 +1,75 @@
+{
+  "type": "gregtech:rubber_wood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "gregtech:log",
+      "meta": 6
+    },
+    "b": {
+      "name": "gregtech:leaves",
+      "meta": 12
+    },
+    "c": {
+      "name": "gregtech:leaves",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " ccc ",
+      "ccccc",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  cc ",
+      "cccbc",
+      "ccccc",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "ccacc",
+      "ccacc",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  cc ",
+      "ccccc",
+      "ccccc",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cccc",
+      " cccc",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Too Much Power",
+	icon: "draconicevolution:reactor_core",
+	x: -0.5d,
+	y: 3.5d,
+	text: [
+		"Make a Draconic Evolution Reactor"
+	],
+	dependencies: [
+		"62da2dda",
+		"4e725224",
+		"44f1f226"
+	],
+	size: 3.0d
+}

@@ -1,0 +1,27 @@
+{
+	title: "Wait, Not Yet 3!",
+	icon: {
+		id: "extraplanets:advanced_launch_pad",
+		Count: 1,
+		Damage: 1s
+	},
+	x: -18.5d,
+	y: 12.0d,
+	text: [
+		"Craft a Tier 3 Rocket Launch Pad."
+	],
+	dependencies: [
+		"e3bdcab6"
+	],
+	tasks: [{
+		uid: "988258ce",
+		type: "item",
+		items: [{
+			id: "extraplanets:advanced_launch_pad",
+			Count: 1,
+			Damage: 1s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

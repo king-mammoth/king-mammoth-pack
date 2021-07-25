@@ -1,0 +1,71 @@
+{
+	title: "Woolly Mammoth",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "toughasnails:wool_helmet",
+		Count: 1,
+		Damage: 0s
+	},
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Craft all pieces of wool armor."
+	],
+	dependencies: [
+		"47e1766a"
+	],
+	tasks: [{
+		uid: "610f594f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:wool_helmet",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "abe0c0c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:wool_chestplate",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "b8f4698b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:wool_leggings",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "5bf86b04",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:wool_boots",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Beginning of end game",
+	loot_size: 1,
+	rewards: [{
+		item: "draconicevolution:draconium_ingot 64"
+	},
+	{
+		item: "draconicevolution:draconic_ingot 32"
+	},
+	{
+		item: "draconicevolution:info_tablet"
+	}]
+}

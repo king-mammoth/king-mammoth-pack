@@ -1,0 +1,33 @@
+{
+	title: "Air in a Bottle 4?",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:oxygen_tank_very_heavy_full",
+		Count: 1,
+		Damage: 7200s
+	},
+	x: 3.5d,
+	y: 4.0d,
+	text: [
+		"Craft a Very Heavy Oxygen Tank."
+	],
+	dependencies: [
+		"c1b61f35"
+	],
+	tasks: [{
+		uid: "21d575c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:oxygen_tank_very_heavy_full",
+			Count: 1,
+			Damage: 7200s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

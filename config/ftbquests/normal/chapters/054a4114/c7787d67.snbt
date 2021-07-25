@@ -1,0 +1,17 @@
+{
+	title: "Desh Ore",
+	icon: "galacticraftplanets:mars 1 2",
+	x: 9.5d,
+	y: -4.0d,
+	text: [
+		"Obtain Desh Ore."
+	],
+	tasks: [{
+		uid: "11115c7b",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	title: "The Beneath",
+	icon: "beneath:teleporterbeneath",
+	x: -8.0d,
+	y: -4.5d,
+	text: [
+		"Wow, thats a lotta ores!"
+	],
+	tasks: [{
+		uid: "db399c48",
+		type: "dimension",
+		dim: 10
+	}]
+}

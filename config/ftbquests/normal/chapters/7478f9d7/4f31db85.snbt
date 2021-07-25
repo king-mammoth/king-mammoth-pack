@@ -1,0 +1,21 @@
+{
+	title: "Diamond Lattice",
+	icon: "avaritia:resource",
+	x: -21.375d,
+	y: -7.875d,
+	text: [
+		"You will need A LOT of Diamond Lattice in this mod."
+	],
+	dependencies: [
+		"c77e4123"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "88ee62b3",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 32"
+		}],
+		count: 32L
+	}]
+}

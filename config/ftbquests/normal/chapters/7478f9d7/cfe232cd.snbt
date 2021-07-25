@@ -1,0 +1,20 @@
+{
+	title: "Neutronium Compressor",
+	icon: "avaritia:neutronium_compressor",
+	x: -16.375d,
+	y: -9.125d,
+	text: [
+		"The Neutronium Compressor is a tile entity added by Avaritia. It is used to compress blocks into singularities."
+	],
+	dependencies: [
+		"db7b4f3b"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "f152c43a",
+		type: "item",
+		items: [{
+			item: "avaritia:neutronium_compressor"
+		}]
+	}]
+}

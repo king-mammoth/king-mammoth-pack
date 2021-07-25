@@ -1,0 +1,17 @@
+{
+	title: "awken core",
+	icon: "draconicevolution:awakened_core",
+	x: 3.0d,
+	y: 7.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "7eb5fe98",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}],
+		consume_items: true
+	}]
+}

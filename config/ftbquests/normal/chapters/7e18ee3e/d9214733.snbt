@@ -1,0 +1,26 @@
+{
+	title: "tier up",
+	icon: "draconicevolution:crafting_injector 1 1",
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "e906b12f",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 10 1"
+		}],
+		count: 10L,
+		consume_items: true
+	},
+	{
+		uid: "d8929c07",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 4"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "best core you can get",
+	icon: "draconicevolution:chaotic_core",
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "fa098fb1",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}],
+		consume_items: true
+	}]
+}

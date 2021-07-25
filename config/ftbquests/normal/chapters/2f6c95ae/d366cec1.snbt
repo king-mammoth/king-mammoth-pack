@@ -1,0 +1,19 @@
+{
+	title: "HOT HOT HOT",
+	icon: "minecraft:lava_bucket",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"Obtain a Lava Bucket."
+	],
+	dependencies: [
+		"b327824b"
+	],
+	tasks: [{
+		uid: "3ef45920",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}]
+	}]
+}

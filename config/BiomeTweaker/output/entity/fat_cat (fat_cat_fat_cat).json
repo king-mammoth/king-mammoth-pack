@@ -1,0 +1,6 @@
+
+{
+  "Name": "fat_cat",
+  "Registry ID": "fat_cat:fat_cat",
+  "Class": "fat_cat.entities.EntityFatCat"
+}

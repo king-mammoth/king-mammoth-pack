@@ -1,0 +1,17 @@
+{
+	title: "Meteor Insides?",
+	icon: "galacticraftcore:meteoric_iron_raw",
+	x: -12.5d,
+	y: -8.0d,
+	text: [
+		"Obtain Raw Meteoric Iron."
+	],
+	tasks: [{
+		uid: "9f42bffe",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:meteoric_iron_raw"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "pig chuck",
+	icon: "mysticalagriculture:chunk 1 7",
+	x: -0.5d,
+	y: 0.5d,
+	text: [
+		"grind grind"
+	],
+	dependencies: [
+		"fb5e00c5"
+	],
+	tasks: [{
+		uid: "b4e41ee9",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:chunk 16 7"
+		}],
+		count: 16L,
+		consume_items: true
+	}]
+}

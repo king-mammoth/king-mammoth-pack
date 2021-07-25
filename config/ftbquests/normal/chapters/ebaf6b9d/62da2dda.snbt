@@ -1,0 +1,19 @@
+{
+	title: "Ok Actually Stop",
+	icon: "draconicevolution:reactor_component",
+	x: -2.5d,
+	y: -0.5d,
+	text: [
+		"Obtain a Reactor Stabilizer"
+	],
+	dependencies: [
+		"c13ca786"
+	],
+	tasks: [{
+		uid: "5a5c18e9",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_component"
+		}]
+	}]
+}

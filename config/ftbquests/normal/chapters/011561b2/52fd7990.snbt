@@ -1,0 +1,29 @@
+{
+	title: "Intermedium Sword",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:intermedium_sword"
+	},
+	x: -12.5d,
+	y: -7.0d,
+	text: [
+		"Craft an Intermedium Sword. Just a sword, plain and simple."
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "464a20ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:intermedium_sword"
+		}],
+		ignore_damage: true
+	}]
+}

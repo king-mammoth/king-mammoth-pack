@@ -1,0 +1,14 @@
+{
+	title: "Compact Machines",
+	icon: "compactmachines3:wall",
+	x: -8.0d,
+	y: -2.5d,
+	text: [
+		"Uh. Am I kinda stuck here?"
+	],
+	tasks: [{
+		uid: "4684db30",
+		type: "dimension",
+		dim: 144
+	}]
+}

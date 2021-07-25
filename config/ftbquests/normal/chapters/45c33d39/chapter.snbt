@@ -1,0 +1,10 @@
+{
+	title: "Compact Machines/Open Computers",
+	icon: "minecraft:book",
+	description: [
+		"Help store big setups."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,19 @@
+{
+	title: "Energy Core",
+	icon: "draconicevolution:wyvern_energy_core",
+	x: -6.5d,
+	y: -0.5d,
+	text: [
+		"Craft a Wyvern Energy Core"
+	],
+	dependencies: [
+		"521330fa"
+	],
+	tasks: [{
+		uid: "8a5b59ff",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_energy_core"
+		}]
+	}]
+}

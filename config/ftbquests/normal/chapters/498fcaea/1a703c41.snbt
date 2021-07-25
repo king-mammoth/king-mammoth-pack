@@ -1,0 +1,63 @@
+{
+	title: "last bits and bob",
+	icon: "mysticalagriculture:prudentium_reprocessor",
+	x: 4.0d,
+	y: 1.0d,
+	text: [
+		"good luck tier 3"
+	],
+	dependencies: [
+		"9fbddda2"
+	],
+	tasks: [{
+		uid: "832adcf1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 64 34"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "998651eb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tinkering_table 1 1"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b1f00ee9",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_reprocessor"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b79172c3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_furnace"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "a5352637",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ingot_storage 64 2"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "152cf61e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:storage 64 1"
+		}],
+		count: 64L,
+		consume_items: true
+	}]
+}

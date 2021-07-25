@@ -1,0 +1,32 @@
+{
+	title: "Fresh Water",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "toughasnails:purified_water_bottle",
+		Count: 1,
+		Damage: 0s
+	},
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"Obtain Purified Water."
+	],
+	dependencies: [
+		"b327824b"
+	],
+	tasks: [{
+		uid: "2e3f54cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:purified_water_bottle",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

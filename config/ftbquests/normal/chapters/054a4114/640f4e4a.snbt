@@ -1,0 +1,20 @@
+{
+	title: "Frequency Module",
+	icon: "galacticraftcore:basic_item 1 19",
+	x: -10.5d,
+	y: 2.0d,
+	text: [
+		"Craft a Frequency Module."
+	],
+	dependencies: [
+		"f23094c5"
+	],
+	tasks: [{
+		uid: "4e0f7cf9",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 19"
+		}],
+		consume_items: true
+	}]
+}

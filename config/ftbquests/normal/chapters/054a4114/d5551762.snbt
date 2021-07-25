@@ -1,0 +1,27 @@
+{
+	title: "Heavy Stuff 6",
+	icon: {
+		id: "extraplanets:tier10_items",
+		Count: 1,
+		Damage: 3s
+	},
+	x: -12.5d,
+	y: 4.0d,
+	text: [
+		"Craft a Tier 10 Heavy Duty Plating."
+	],
+	dependencies: [
+		"7c2e601b"
+	],
+	tasks: [{
+		uid: "20b770f3",
+		type: "item",
+		items: [{
+			id: "extraplanets:tier10_items",
+			Count: 1,
+			Damage: 3s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Wow Big Brain 2",
+	icon: "galacticraftplanets:item_basic_asteroids 1 1",
+	x: -20.5d,
+	y: 10.0d,
+	text: [
+		"Craft a Heavy Rocket Engine."
+	],
+	dependencies: [
+		"4c98a2ea"
+	],
+	tasks: [{
+		uid: "162a7470",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:item_basic_asteroids 1 1"
+		}],
+		consume_items: true
+	}]
+}

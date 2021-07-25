@@ -1,0 +1,21 @@
+{
+	title: "Extreme Crafting!",
+	icon: "avaritia:extreme_crafting_table",
+	x: -20.125d,
+	y: -9.125d,
+	text: [
+		"Craft a Extremem Crafting Table"
+	],
+	dependencies: [
+		"1612ba9e",
+		"e7bc8ba9"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "8e688779",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}]
+	}]
+}

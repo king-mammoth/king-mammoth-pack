@@ -1,0 +1,75 @@
+{
+	title: "Tier 4 Thermal Armor",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:tier4_thermal_padding",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -23.5d,
+	y: -6.5d,
+	text: [
+		"Craft Tier 4 Thermal Armor."
+	],
+	dependencies: [
+		"2e040241"
+	],
+	tasks: [{
+		uid: "7154e750",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier4_thermal_padding",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "671d57b3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier4_thermal_padding",
+			Count: 1,
+			Damage: 1s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "24f06956",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier4_thermal_padding",
+			Count: 1,
+			Damage: 2s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "917df28b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier4_thermal_padding",
+			Count: 1,
+			Damage: 3s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

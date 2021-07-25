@@ -1,0 +1,20 @@
+{
+	title: "Intermedium Tool Core",
+	icon: "mysticalagriculture:gear 1 2",
+	x: -11.875d,
+	y: -8.875d,
+	text: [
+		"Craft an Intermedium Tool Core. This will be used in all Mystical Agriculture Tools so you're gonna need a few."
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "b1e9f129",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:gear 1 2"
+		}]
+	}]
+}

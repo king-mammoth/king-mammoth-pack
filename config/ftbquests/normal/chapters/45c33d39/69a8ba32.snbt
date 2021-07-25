@@ -1,0 +1,17 @@
+{
+	title: "Transistors",
+	icon: "opencomputers:material 1 6",
+	x: -4.5d,
+	y: -6.5d,
+	text: [
+		"Craft 8 Transistors. These are going to be used for many OpenComputer components."
+	],
+	tasks: [{
+		uid: "22ad4164",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 8 6"
+		}],
+		count: 8L
+	}]
+}

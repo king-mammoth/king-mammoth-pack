@@ -1,0 +1,167 @@
+{
+	title: "Schematical Expert",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:schematic_tier10",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -28.5d,
+	y: 4.166666666666666d,
+	text: [
+		"Visit all Planets and get all Rocket Schematics."
+	],
+	dependencies: [
+		"15d01894",
+		"68b7e710",
+		"861869d0",
+		"c708a982",
+		"afe89fe3",
+		"04ed93a2",
+		"c7bfbb70",
+		"a2a33837",
+		"8484fc51",
+		"0a201cda",
+		"9994bc48",
+		"e8e5b079",
+		"64d8ef67"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "89378d4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:schematic",
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "fb57d94b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:schematic"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0487a417",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier4",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "fc938416",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier5",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "4ee58c64",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier6",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "81d5ee9b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier7",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "871eeef2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier8",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "036444d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier9",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "fffff36a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier10",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "81f748db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:schematic_tier10_electric_rocket",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

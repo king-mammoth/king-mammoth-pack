@@ -1,0 +1,14 @@
+{
+	title: "Ceres",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 9.0d,
+	text: [
+		"Visit Ceres."
+	],
+	tasks: [{
+		uid: "09c974e9",
+		type: "dimension",
+		dim: -20
+	}]
+}

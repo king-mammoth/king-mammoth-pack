@@ -1,0 +1,19 @@
+{
+	title: "Draconic Core",
+	icon: "draconicevolution:draconic_core",
+	x: -8.5d,
+	y: -4.5d,
+	text: [
+		"Create a Draconic Core"
+	],
+	dependencies: [
+		"521330fa"
+	],
+	tasks: [{
+		uid: "e4e62d63",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}]
+}

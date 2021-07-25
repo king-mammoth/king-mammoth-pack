@@ -1,0 +1,27 @@
+{
+	title: "Graphene Seeds",
+	icon: {
+		id: "gtadditions:graphene.seeds",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -7.75d,
+	y: -8.25d,
+	text: [
+		"Graphene Seeds"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "148d9aaf",
+		type: "item",
+		items: [{
+			id: "gtadditions:graphene.seeds",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

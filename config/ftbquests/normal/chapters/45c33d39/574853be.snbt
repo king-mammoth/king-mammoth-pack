@@ -1,0 +1,19 @@
+{
+	title: "Data Card (Tier 2)",
+	icon: "opencomputers:card 1 11",
+	x: -14.5d,
+	y: -1.5d,
+	text: [
+		"Craft a Tier 2 Data Card"
+	],
+	dependencies: [
+		"66e880e7"
+	],
+	tasks: [{
+		uid: "aeb12d22",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 11"
+		}]
+	}]
+}

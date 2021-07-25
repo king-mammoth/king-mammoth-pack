@@ -1,0 +1,20 @@
+{
+	title: "Computer Case (Tier 2)",
+	icon: "opencomputers:case2",
+	x: -8.5d,
+	y: -5.5d,
+	text: [
+		"Craft a Tier 2 Computer Case"
+	],
+	dependencies: [
+		"c0fcd214",
+		"0ae89a75"
+	],
+	tasks: [{
+		uid: "1b6f397f",
+		type: "item",
+		items: [{
+			item: "opencomputers:case2"
+		}]
+	}]
+}

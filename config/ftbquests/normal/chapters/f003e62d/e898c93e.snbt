@@ -1,0 +1,44 @@
+{
+	title: "BIG Satchel",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {
+				AS_Amulet_HolderLeast: -7861323254270207861L,
+				AS_Amulet_HolderMost: -5242053170944128269L
+			}
+		},
+		id: "thermalexpansion:satchel",
+		tag: {
+			Inventory: {},
+			Accessible: 1b
+		},
+		Damage: 4s
+	},
+	x: -3.0d,
+	y: 3.0d,
+	text: [
+		"Max size"
+	],
+	dependencies: [
+		"82d83b12"
+	],
+	tasks: [{
+		uid: "10ff4f1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7861323254270207861L,
+					AS_Amulet_HolderMost: -5242053170944128269L
+				}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Inventory: {},
+				Accessible: 1b
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

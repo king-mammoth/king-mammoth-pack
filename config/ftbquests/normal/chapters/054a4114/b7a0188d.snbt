@@ -1,0 +1,27 @@
+{
+	title: "Fueler Load",
+	icon: {
+		id: "extraplanets:advanced_fuel_loader",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -4.5d,
+	y: -4.0d,
+	text: [
+		"Craft an Advanced Fuel Loader."
+	],
+	dependencies: [
+		"0ae59e7f"
+	],
+	tasks: [{
+		uid: "bf47cb2b",
+		type: "item",
+		items: [{
+			id: "extraplanets:advanced_fuel_loader",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Intermedium Apple",
+	icon: "mysticalagriculture:intermedium_apple",
+	x: -12.5d,
+	y: -4.5d,
+	text: [
+		"Craft an Intermedium Apple. This is like a golden apple, it will give you certain effects depending on what the apple is made of."
+	],
+	dependencies: [
+		"785db2aa"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "0fae2de4",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_apple"
+		}]
+	}]
+}

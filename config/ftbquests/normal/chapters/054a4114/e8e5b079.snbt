@@ -1,0 +1,14 @@
+{
+	title: "Kelper 22b",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 15.0d,
+	text: [
+		"Visit Kelper 22b."
+	],
+	tasks: [{
+		uid: "2a5e9694",
+		type: "dimension",
+		dim: -22
+	}]
+}

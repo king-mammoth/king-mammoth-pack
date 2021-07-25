@@ -1,0 +1,14 @@
+{
+	title: "Uranus",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 5.0d,
+	text: [
+		"Visit Uranus."
+	],
+	tasks: [{
+		uid: "3a85a0a2",
+		type: "dimension",
+		dim: -17
+	}]
+}

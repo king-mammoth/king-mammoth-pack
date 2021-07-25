@@ -1,0 +1,20 @@
+{
+	title: "Advanced Sun Power",
+	icon: "galacticraftcore:solar 1 4",
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"Craft an Advanced Solar Panel."
+	],
+	dependencies: [
+		"83341ccc"
+	],
+	tasks: [{
+		uid: "4f7cd6ac",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solar_panel_advanced"
+		}],
+		consume_items: true
+	}]
+}

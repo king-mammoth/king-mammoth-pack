@@ -1,0 +1,20 @@
+{
+	title: "Tinny",
+	icon: "galacticraftcore:basic_block_core 1 6",
+	x: -12.5d,
+	y: -4.0d,
+	text: [
+		"Obtain Tin Ingot."
+	],
+	dependencies: [
+		"b6151917"
+	],
+	tasks: [{
+		uid: "fe722e5f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 129"
+		}],
+		consume_items: true
+	}]
+}

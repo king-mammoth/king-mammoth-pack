@@ -1,0 +1,19 @@
+{
+	title: "All In One Chest",
+	icon: "draconicevolution:draconium_chest",
+	x: -8.5d,
+	y: 0.5d,
+	text: [
+		"Craft the Draconium Chest to combine storage, smelting, and crafting into one."
+	],
+	dependencies: [
+		"521330fa"
+	],
+	tasks: [{
+		uid: "fb1cbd97",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_chest"
+		}]
+	}]
+}

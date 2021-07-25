@@ -1,0 +1,24 @@
+{
+	title: "Lead Ore",
+	icon: {
+		id: "extraplanets:ore_lead",
+		Count: 1,
+		Damage: 0s
+	},
+	x: 7.5d,
+	y: 2.0d,
+	text: [
+		"Obtain Lead Ore."
+	],
+	tasks: [{
+		uid: "71f162ac",
+		type: "item",
+		items: [{
+			id: "extraplanets:ore_lead",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

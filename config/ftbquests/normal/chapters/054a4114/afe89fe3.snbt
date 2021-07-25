@@ -1,0 +1,14 @@
+{
+	title: "Eris",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 13.0d,
+	text: [
+		"Visit Eris."
+	],
+	tasks: [{
+		uid: "f18c3c12",
+		type: "dimension",
+		dim: -21
+	}]
+}

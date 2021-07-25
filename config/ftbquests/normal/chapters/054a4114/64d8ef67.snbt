@@ -1,0 +1,14 @@
+{
+	title: "Venus",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: -5.0d,
+	text: [
+		"Visit Venus."
+	],
+	tasks: [{
+		uid: "277062ec",
+		type: "dimension",
+		dim: -31
+	}]
+}

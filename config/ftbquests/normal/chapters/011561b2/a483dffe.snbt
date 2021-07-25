@@ -1,0 +1,29 @@
+{
+	title: "Intermedium Axe",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:intermedium_axe"
+	},
+	x: -12.5d,
+	y: -6.0d,
+	text: [
+		"Craft an Intermedium Axe. Just a better axe."
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "5bbd4de8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:intermedium_axe"
+		}],
+		ignore_damage: true
+	}]
+}

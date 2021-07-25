@@ -1,0 +1,19 @@
+{
+	title: "Wyvern Core",
+	icon: "draconicevolution:wyvern_core",
+	x: -6.5d,
+	y: -4.5d,
+	text: [
+		"Create a Wyvern Core"
+	],
+	dependencies: [
+		"98d26c26"
+	],
+	tasks: [{
+		uid: "fe1c7696",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}]
+}

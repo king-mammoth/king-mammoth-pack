@@ -1,0 +1,29 @@
+{
+	title: "Skullfire Sword",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "avaritia:skullfire_sword"
+	},
+	x: -20.125d,
+	y: -6.625d,
+	text: [
+		"Skullfire Sword is a sword which let you get wither skeleton skull everytime you kill a skeloton (beheaded)."
+	],
+	dependencies: [
+		"1612ba9e"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "e96b9e59",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:skullfire_sword"
+		}],
+		ignore_damage: true
+	}]
+}

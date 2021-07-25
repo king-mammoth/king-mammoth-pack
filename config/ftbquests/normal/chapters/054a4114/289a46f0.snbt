@@ -1,0 +1,27 @@
+{
+	title: "Fuelest Load",
+	icon: {
+		id: "extraplanets:ultimate_fuel_loader",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -2.5d,
+	y: -4.0d,
+	text: [
+		"Craft an Ultimate Fuel Loader."
+	],
+	dependencies: [
+		"b7a0188d"
+	],
+	tasks: [{
+		uid: "429f4e51",
+		type: "item",
+		items: [{
+			id: "extraplanets:ultimate_fuel_loader",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

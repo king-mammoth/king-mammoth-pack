@@ -1,0 +1,49 @@
+{
+	title: "Powerful Armor",
+	icon: {
+		id: "draconicevolution:wyvern_helm",
+		tag: {
+			Energy: 4000000
+		}
+	},
+	x: -4.5d,
+	y: 0.5d,
+	text: [
+		"Craft all pieces of Wyvern Armor"
+	],
+	dependencies: [
+		"0e30f7d7"
+	],
+	tasks: [{
+		uid: "05484910",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "2a24be08",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "9040af5a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "08500e32",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_boots"
+		}],
+		ignore_damage: true
+	}]
+}

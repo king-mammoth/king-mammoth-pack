@@ -1,0 +1,27 @@
+{
+	title: "Black Steel Seeds",
+	icon: {
+		id: "gtadditions:black_steel.seeds",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -10.25d,
+	y: -8.25d,
+	text: [
+		"Black Steel Seeds"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "5c6266b7",
+		type: "item",
+		items: [{
+			id: "gtadditions:black_steel.seeds",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

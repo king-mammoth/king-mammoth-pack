@@ -1,0 +1,14 @@
+{
+	title: "Neptune",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 7.0d,
+	text: [
+		"Visit Neptune."
+	],
+	tasks: [{
+		uid: "5e31d914",
+		type: "dimension",
+		dim: -18
+	}]
+}

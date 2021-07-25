@@ -1,0 +1,24 @@
+{
+	title: "Palladium Ore",
+	icon: {
+		id: "extraplanets:jupiter",
+		Count: 1,
+		Damage: 6s
+	},
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"Obtain Palladium Ore."
+	],
+	tasks: [{
+		uid: "b2e18277",
+		type: "item",
+		items: [{
+			id: "extraplanets:jupiter",
+			Count: 1,
+			Damage: 6s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

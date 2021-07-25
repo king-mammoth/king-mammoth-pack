@@ -1,0 +1,41 @@
+{
+	title: "Okay we're getting somewhere",
+	icon: "compactmachines3:machine 1 1",
+	x: -12.5d,
+	y: -8.5d,
+	text: [
+		"Craft a Small Compact Machine"
+	],
+	dependencies: [
+		"783a8b19"
+	],
+	tasks: [{
+		uid: "55700231",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable 26"
+		}],
+		count: 26L
+	},
+	{
+		uid: "4a6ea4a9",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}]
+	},
+	{
+		uid: "a92be035",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	},
+	{
+		uid: "1715e43f",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 1"
+		}]
+	}]
+}

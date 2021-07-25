@@ -1,0 +1,17 @@
+{
+	title: "Dragon Shards",
+	icon: "draconicevolution:draconium_dust",
+	x: -10.5d,
+	y: -2.5d,
+	text: [
+		"Obtain Draconium Ore"
+	],
+	tasks: [{
+		uid: "c43504fb",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust 16"
+		}],
+		count: 16L
+	}]
+}

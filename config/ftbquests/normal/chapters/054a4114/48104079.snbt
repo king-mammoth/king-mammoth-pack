@@ -1,0 +1,20 @@
+{
+	title: "I Work for NASA!",
+	icon: "galacticraftcore:rocket_workbench",
+	x: -22.5d,
+	y: 2.0d,
+	text: [
+		"Craft a NASA Workbench."
+	],
+	dependencies: [
+		"f23094c5"
+	],
+	tasks: [{
+		uid: "ceabab73",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}],
+		consume_items: true
+	}]
+}

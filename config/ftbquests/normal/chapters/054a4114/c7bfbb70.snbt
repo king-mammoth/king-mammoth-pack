@@ -1,0 +1,14 @@
+{
+	title: "Moon",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: -3.0d,
+	text: [
+		"Visit Moon."
+	],
+	tasks: [{
+		uid: "8944a436",
+		type: "dimension",
+		dim: -28
+	}]
+}

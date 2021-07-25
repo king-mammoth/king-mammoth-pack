@@ -1,0 +1,34 @@
+{
+	title: "Tier 9 Rocket",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:item_tier9_rocket",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -1.1666666666666665d,
+	y: 14.25d,
+	text: [
+		"Obtain a Tier 9 Rocket."
+	],
+	dependencies: [
+		"1ec73108"
+	],
+	size: 1.6666666666666667d,
+	tasks: [{
+		uid: "33f2beef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:item_tier9_rocket",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

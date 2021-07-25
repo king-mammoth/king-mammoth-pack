@@ -1,0 +1,14 @@
+{
+	title: "Mars",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: -1.0d,
+	text: [
+		"Visit Mars."
+	],
+	tasks: [{
+		uid: "a5fbbbe9",
+		type: "dimension",
+		dim: -29
+	}]
+}

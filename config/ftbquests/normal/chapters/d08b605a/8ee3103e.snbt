@@ -1,0 +1,14 @@
+{
+	title: "The Nether",
+	icon: "minecraft:netherrack",
+	x: -6.0d,
+	y: -4.5d,
+	text: [
+		"Tons of vital early/mid game ores and mobs spawn here."
+	],
+	tasks: [{
+		uid: "3a5ca5ef",
+		type: "dimension",
+		dim: -1
+	}]
+}

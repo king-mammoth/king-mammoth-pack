@@ -1,0 +1,35 @@
+{
+	title: "Armor Craftsman",
+	icon: {
+		id: "conarm:armorforge",
+		tag: {
+			textureBlock: {
+				id: "minecraft:iron_block",
+				Count: 1b,
+				Damage: 0s
+			}
+		}
+	},
+	x: 5.0d,
+	y: -4.0d,
+	text: [
+		"Craft an Armor Forge."
+	],
+	dependencies: [
+		"9506664c"
+	],
+	tasks: [{
+		uid: "cdab57a4",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}

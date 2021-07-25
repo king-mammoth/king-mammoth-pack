@@ -1,0 +1,27 @@
+{
+	title: "Bismuth Bronze Seeds",
+	icon: {
+		id: "gtadditions:bismuth_bronze.seeds",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -9.75d,
+	y: -8.25d,
+	text: [
+		"Bismuth Bronze Seeds"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "9935c7b9",
+		type: "item",
+		items: [{
+			id: "gtadditions:bismuth_bronze.seeds",
+			Count: 1,
+			Damage: 0s
+		}],
+		ignore_damage: true
+	}]
+}

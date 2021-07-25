@@ -1,0 +1,15 @@
+{
+	title: "Beginning Storage and Technology",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalfoundation:wrench"
+	},
+	description: [
+		"thermal/QuantumStorage/Colschest"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

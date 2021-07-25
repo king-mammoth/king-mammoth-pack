@@ -1,0 +1,29 @@
+{
+	title: "Intermedium Shears",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:intermedium_shears"
+	},
+	x: -12.5d,
+	y: -5.5d,
+	text: [
+		"Craft Intermedium Shears."
+	],
+	dependencies: [
+		"b51f5677"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "a49587c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:intermedium_shears"
+		}],
+		ignore_damage: true
+	}]
+}

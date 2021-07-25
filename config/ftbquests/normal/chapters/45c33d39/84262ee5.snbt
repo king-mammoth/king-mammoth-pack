@@ -1,0 +1,41 @@
+{
+	title: "Now this is getting big",
+	icon: "compactmachines3:machine 1 4",
+	x: -6.5d,
+	y: -8.5d,
+	text: [
+		"Craft a Giant Compact Machine"
+	],
+	dependencies: [
+		"936b1437"
+	],
+	tasks: [{
+		uid: "8dcd2e92",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable 98"
+		}],
+		count: 98L
+	},
+	{
+		uid: "455d4bf2",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_block"
+		}]
+	},
+	{
+		uid: "f562a3fa",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	},
+	{
+		uid: "632402cd",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 4"
+		}]
+	}]
+}

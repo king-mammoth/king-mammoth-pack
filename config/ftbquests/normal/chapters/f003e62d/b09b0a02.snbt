@@ -1,0 +1,36 @@
+{
+	title: "next tier up satchel",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalexpansion:satchel",
+		tag: {
+			Accessible: 1b
+		},
+		Damage: 1s
+	},
+	x: -3.0d,
+	y: -3.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"ad081d99"
+	],
+	tasks: [{
+		uid: "d717d3f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

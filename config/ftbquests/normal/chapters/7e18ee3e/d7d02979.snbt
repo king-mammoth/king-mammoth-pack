@@ -1,0 +1,17 @@
+{
+	title: "BASIC CORE",
+	icon: "draconicevolution:draconic_core",
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "9e656875",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,64 @@
+{
+	title: "Isothermal Armor",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "galacticraftplanets:thermal_padding_t2"
+	},
+	x: -27.5d,
+	y: -6.5d,
+	text: [
+		"Craft Isothermal Armor."
+	],
+	dependencies: [
+		"80fac080"
+	],
+	tasks: [{
+		uid: "32556ef5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "8f074919",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b1252336",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 2s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "14ba7f0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

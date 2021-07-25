@@ -1,0 +1,45 @@
+{
+	title: "Better gear",
+	icon: "draconicevolution:draconic_helm",
+	x: 3.0d,
+	y: 9.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "f110f34d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "b6175dc7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_chest"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "635b50a8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "2341e909",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_boots"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

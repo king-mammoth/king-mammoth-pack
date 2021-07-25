@@ -1,0 +1,9 @@
+{
+	title: "New Quest",
+	icon: "minecraft:nether_star",
+	x: -4.5d,
+	y: -8.0d,
+	text: [
+		"No Description"
+	]
+}

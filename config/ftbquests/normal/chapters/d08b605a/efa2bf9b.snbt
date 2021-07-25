@@ -1,0 +1,25 @@
+{
+	title: "Twilight Forest",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "twilightforest:naga_chestplate",
+		tag: {
+			ench: [{
+				lvl: 3s,
+				id: 1
+			}]
+		}
+	},
+	x: -4.0d,
+	y: -0.5d,
+	text: [
+		"I like Nature."
+	],
+	tasks: [{
+		uid: "a4aa0683",
+		type: "dimension",
+		dim: -777
+	}]
+}

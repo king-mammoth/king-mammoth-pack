@@ -1,0 +1,49 @@
+{
+	title: "Overkill Armor",
+	icon: {
+		id: "draconicevolution:draconic_helm",
+		tag: {
+			Energy: 16000000
+		}
+	},
+	x: -4.5d,
+	y: 2.5d,
+	text: [
+		"Craft all pieces of Draconic Armor"
+	],
+	dependencies: [
+		"4483b193"
+	],
+	tasks: [{
+		uid: "d791d553",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "d9145a48",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_chest"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "875ab70e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "1274fc37",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_boots"
+		}],
+		ignore_damage: true
+	}]
+}

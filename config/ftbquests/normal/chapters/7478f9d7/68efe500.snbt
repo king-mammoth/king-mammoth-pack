@@ -1,0 +1,13 @@
+{
+	title: "New Quest",
+	icon: "minecraft:nether_star",
+	x: -16.375d,
+	y: -2.875d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"51e40fa1"
+	],
+	size: 0.75d
+}

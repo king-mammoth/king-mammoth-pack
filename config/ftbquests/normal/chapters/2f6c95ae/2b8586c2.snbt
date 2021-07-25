@@ -1,0 +1,34 @@
+{
+	title: "Power Hogger",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "integrateddynamics:energy_battery",
+		tag: {
+			energy: 0
+		}
+	},
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"Craft a 1,000,000 RF Battery."
+	],
+	dependencies: [
+		"d63e4b45"
+	],
+	tasks: [{
+		uid: "8fa9e3da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "integrateddynamics:energy_battery",
+			tag: {
+				energy: 0
+			}
+		}],
+		ignore_damage: true
+	}]
+}

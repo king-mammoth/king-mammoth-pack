@@ -1,0 +1,20 @@
+{
+	title: "Heavy Stuff 2",
+	icon: "galacticraftplanets:item_basic_mars 1 3",
+	x: -20.5d,
+	y: 4.0d,
+	text: [
+		"Craft a Tier 2 Heavy Duty Plating"
+	],
+	dependencies: [
+		"6c5e6abf"
+	],
+	tasks: [{
+		uid: "3064ef58",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:item_basic_mars 1 3"
+		}],
+		consume_items: true
+	}]
+}

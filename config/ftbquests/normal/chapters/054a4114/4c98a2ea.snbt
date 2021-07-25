@@ -1,0 +1,20 @@
+{
+	title: "Wow Big Brain",
+	icon: "galacticraftcore:engine",
+	x: -22.5d,
+	y: 10.0d,
+	text: [
+		"Craft a Tier 1 Rocket Engine."
+	],
+	dependencies: [
+		"ab3656d7"
+	],
+	tasks: [{
+		uid: "6fd91f86",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:engine"
+		}],
+		consume_items: true
+	}]
+}

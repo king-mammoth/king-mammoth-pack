@@ -1,0 +1,19 @@
+{
+	title: "Graohics Card (Tier 3)",
+	icon: "opencomputers:card 1 3",
+	x: -16.5d,
+	y: -0.5d,
+	text: [
+		"Craft a Tier 3 Graphics Card"
+	],
+	dependencies: [
+		"7faaf6cd"
+	],
+	tasks: [{
+		uid: "bc712e25",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 3"
+		}]
+	}]
+}

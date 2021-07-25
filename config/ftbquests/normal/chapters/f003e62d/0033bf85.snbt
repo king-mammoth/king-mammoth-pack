@@ -1,0 +1,36 @@
+{
+	title: "higher you go bigger it gets",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalexpansion:satchel",
+		tag: {
+			Accessible: 1b
+		},
+		Damage: 2s
+	},
+	x: -3.0d,
+	y: -1.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"b09b0a02"
+	],
+	tasks: [{
+		uid: "33706498",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

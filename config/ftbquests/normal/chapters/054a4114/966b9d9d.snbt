@@ -1,0 +1,20 @@
+{
+	title: "Aluminumy",
+	icon: "galacticraftcore:basic_block_core 1 7",
+	x: -12.5d,
+	y: -2.0d,
+	text: [
+		"Obtain Aluminum Ingot."
+	],
+	dependencies: [
+		"b6151917"
+	],
+	tasks: [{
+		uid: "88d4be81",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 132"
+		}],
+		consume_items: true
+	}]
+}

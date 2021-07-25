@@ -1,0 +1,36 @@
+{
+	title: "power bank teir 4",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalexpansion:capacitor",
+		tag: {
+			Energy: 16000000
+		},
+		Damage: 3s
+	},
+	x: -1.0d,
+	y: 1.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"aaa61818"
+	],
+	tasks: [{
+		uid: "0e60a33a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 16000000
+			},
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

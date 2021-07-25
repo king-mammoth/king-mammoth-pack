@@ -1,0 +1,17 @@
+{
+	title: "Telepad",
+	icon: "galacticraftplanets:telepad_short",
+	x: -8.5d,
+	y: -8.0d,
+	text: [
+		"Craft a Short Range Telepad."
+	],
+	tasks: [{
+		uid: "a021f05d",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:telepad_short"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	title: "Welcome to King Mammoth",
+	icon: "orecore:ruby",
+	x: -3.5d,
+	y: -1.0d,
+	text: [
+		"Welcome to §l§6§lKing Mammoth§f, the World's most §l§l§c§lBiggest§f Modpack you will ever encounter."
+	],
+	rewards: [{
+		uid: "efb12319",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

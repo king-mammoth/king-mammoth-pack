@@ -1,0 +1,20 @@
+{
+	title: "Rockets Aren't Fish",
+	icon: "galacticraftcore:rocket_fins",
+	x: -22.5d,
+	y: 6.0d,
+	text: [
+		"Craft Rocket Fins."
+	],
+	dependencies: [
+		"6c5e6abf"
+	],
+	tasks: [{
+		uid: "9c6e29ab",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_fins"
+		}],
+		consume_items: true
+	}]
+}

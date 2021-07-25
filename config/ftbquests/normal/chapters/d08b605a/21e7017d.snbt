@@ -1,0 +1,21 @@
+{
+	title: "Mining World Dimensions",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ic2:drill",
+		tag: {},
+		Damage: 26s
+	},
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		"Borrrrrrrrrrrring."
+	],
+	tasks: [{
+		uid: "7d0aa7cb",
+		type: "dimension",
+		dim: -6
+	}]
+}

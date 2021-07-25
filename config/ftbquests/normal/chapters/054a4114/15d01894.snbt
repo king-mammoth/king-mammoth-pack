@@ -1,0 +1,14 @@
+{
+	title: "Jupiter",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: 1.0d,
+	text: [
+		"Visit Jupiter."
+	],
+	tasks: [{
+		uid: "f4837193",
+		type: "dimension",
+		dim: -15
+	}]
+}

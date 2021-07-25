@@ -1,0 +1,16 @@
+{
+	title: "beginning",
+	loot_size: 1,
+	rewards: [{
+		item: "draconicevolution:draconium_ore 64"
+	},
+	{
+		item: "draconicevolution:energy_crystal 16 3"
+	},
+	{
+		item: "draconicevolution:draconium_ingot 24"
+	},
+	{
+		item: "draconicevolution:info_tablet"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Better Fuel",
+	icon: "galacticraftcore:refinery",
+	x: -8.5d,
+	y: -6.0d,
+	text: [
+		"Craft a Refinary."
+	],
+	dependencies: [
+		"4c760986",
+		"9c133fe9"
+	],
+	tasks: [{
+		uid: "5eaefca2",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:refinery"
+		}],
+		consume_items: true
+	}]
+}

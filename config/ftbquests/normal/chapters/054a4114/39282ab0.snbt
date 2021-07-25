@@ -1,0 +1,34 @@
+{
+	title: "Tier 6 Rocket",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:item_tier6_rocket",
+		Count: 1,
+		Damage: 0s
+	},
+	x: -9.166666666666666d,
+	y: 14.25d,
+	text: [
+		"Obtain a Tier 6 Rocket."
+	],
+	dependencies: [
+		"1b6bde29"
+	],
+	size: 1.6666666666666667d,
+	tasks: [{
+		uid: "c9315511",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:item_tier6_rocket",
+			Count: 1,
+			Damage: 0s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

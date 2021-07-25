@@ -1,0 +1,17 @@
+{
+	title: "New Quest",
+	icon: "quantumstorage:quantum_tank",
+	x: 11.0d,
+	y: 0.0d,
+	text: [
+		"Bet cant fill me up manually no emc or creative tanks!!!"
+	],
+	tasks: [{
+		uid: "95e66d0c",
+		type: "item",
+		items: [{
+			item: "quantumstorage:quantum_tank"
+		}],
+		consume_items: true
+	}]
+}

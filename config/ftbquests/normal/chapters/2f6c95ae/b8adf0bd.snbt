@@ -1,0 +1,23 @@
+{
+	title: "Very Ghastly",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "inventorypets:nether_portal_pet"
+	},
+	x: 3.0d,
+	y: -13.0d,
+	text: [
+		"Make a Nether Portal and go to the Nether Dimension. Beware!"
+	],
+	dependencies: [
+		"9dce134c"
+	],
+	tasks: [{
+		uid: "73698aa7",
+		type: "advancement",
+		advancement: "triumph:example/example_location_dimid",
+		criterion: ""
+	}]
+}

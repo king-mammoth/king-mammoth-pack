@@ -1,0 +1,14 @@
+{
+	title: "Mercury",
+	icon: "galacticraftcore:dishbase",
+	x: -35.0d,
+	y: -7.0d,
+	text: [
+		"Visit Mercury."
+	],
+	tasks: [{
+		uid: "cb27c144",
+		type: "dimension",
+		dim: -13
+	}]
+}

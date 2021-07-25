@@ -1,0 +1,17 @@
+{
+	title: "New Quest",
+	icon: "thermalfoundation:upgrade",
+	x: 6.5d,
+	y: -0.5d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "07353a7d",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Stop Flexing",
+	icon: "draconicevolution:chaotic_core",
+	x: -2.5d,
+	y: -2.5d,
+	text: [
+		"Obtain a Chaotic Core"
+	],
+	dependencies: [
+		"1a23c525"
+	],
+	tasks: [{
+		uid: "bc12837a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}]
+	}]
+}

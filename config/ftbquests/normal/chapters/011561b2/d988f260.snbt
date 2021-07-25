@@ -1,0 +1,20 @@
+{
+	title: "Rainbow Shears",
+	icon: "mysticalagriculture:charm 1 12",
+	x: -8.5d,
+	y: -3.5d,
+	text: [
+		"Shearing sheep gives §4r§k§ca§ei§an§9b§1§do§5w §rwool"
+	],
+	dependencies: [
+		"7bae8f3c"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "39b88ab8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:charm 1 12"
+		}]
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "New Quest",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalinnovation:magnet",
+		Count: 1,
+		tag: {
+			Energy: 120000
+		},
+		Damage: 1s
+	},
+	x: -5.0d,
+	y: -3.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"11105f3a"
+	],
+	tasks: [{
+		uid: "3c1bee77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:magnet",
+			Count: 1,
+			tag: {
+				Energy: 120000
+			},
+			Damage: 1s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

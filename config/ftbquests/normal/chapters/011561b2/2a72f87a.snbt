@@ -1,0 +1,13 @@
+{
+	title: "New Quest",
+	icon: "mysticalagriculture:gear 1 7",
+	x: -7.125d,
+	y: -8.875d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"9431f40d"
+	],
+	size: 0.75d
+}

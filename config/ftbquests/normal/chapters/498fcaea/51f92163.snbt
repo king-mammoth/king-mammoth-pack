@@ -1,0 +1,166 @@
+{
+	title: "seeds you will need",
+	icon: "mysticalagriculture:crafting 1 18",
+	x: -5.5d,
+	y: -2.5d,
+	text: [
+		"10 more seeds :}"
+	],
+	dependencies: [
+		"55665459"
+	],
+	tasks: [{
+		uid: "cd46d6cf",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:apatite_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6e15635f",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:fire_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4f26804d",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:dye_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0e8ea01f",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:slate_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "cd2e0db9",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:menril_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2e91a3ee",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:rubber_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2d995dd3",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:basalt_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4eb105d8",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:sulfur_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "9a959095",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:aluminum_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6a36a3ac",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:mystical_flower_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b83b1633",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:grains_of_infinity_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c021887d",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:copper_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "036049f5",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:limestone_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "3d8653f7",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:marble_seeds",
+			tag: {
+				not_consumed: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

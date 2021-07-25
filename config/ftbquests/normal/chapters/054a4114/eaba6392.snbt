@@ -1,0 +1,77 @@
+{
+	title: "Tier 1 Space Suit",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extraplanets:tier1_space_suit_helmet",
+		Count: 1,
+		tag: {},
+		Damage: 100s
+	},
+	x: -29.5d,
+	y: -4.5d,
+	text: [
+		"Craft a Tier 1 Space Suit."
+	],
+	tasks: [{
+		uid: "39db4f9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier1_space_suit_helmet",
+			Count: 1,
+			tag: {},
+			Damage: 100s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "a5cf78fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier1_space_suit_chest",
+			Count: 1,
+			tag: {},
+			Damage: 100s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "d9d20598",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier1_space_suit_legings",
+			Count: 1,
+			tag: {},
+			Damage: 100s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "14fcc839",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:tier1_space_suit_boots",
+			Count: 1,
+			tag: {},
+			Damage: 100s
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}

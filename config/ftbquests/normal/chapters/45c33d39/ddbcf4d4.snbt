@@ -1,0 +1,19 @@
+{
+	title: "CPU (Tier 2)",
+	icon: "opencomputers:component 1 1",
+	x: -10.5d,
+	y: -1.5d,
+	text: [
+		"Craft a Tier 2 CPU"
+	],
+	dependencies: [
+		"fad8229c"
+	],
+	tasks: [{
+		uid: "0c525ec1",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 1"
+		}]
+	}]
+}

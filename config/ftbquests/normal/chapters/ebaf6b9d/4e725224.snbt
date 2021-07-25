@@ -1,0 +1,19 @@
+{
+	title: "Reactor Heart",
+	icon: "draconicevolution:reactor_core",
+	x: 1.5d,
+	y: -2.5d,
+	text: [
+		"Crafting a Draconic Reactor Core"
+	],
+	dependencies: [
+		"c08240b8"
+	],
+	tasks: [{
+		uid: "9d8adbbe",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_core"
+		}]
+	}]
+}

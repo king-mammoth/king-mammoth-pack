@@ -1,0 +1,60 @@
+{
+	title: "First 6 seeds",
+	icon: "mysticalagriculture:dirt_seeds",
+	x: -25.0d,
+	y: -13.5d,
+	text: [
+		"good luck lot more to go"
+	],
+	dependencies: [
+		"41d26980"
+	],
+	tasks: [{
+		uid: "69bcc47a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:stone_seeds"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c6cfffb2",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:dirt_seeds"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6a2742d4",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:nature_seeds"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "47bcff20",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:wood_seeds"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2ff2b641",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:water_seeds"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "56c91aeb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 17"
+		}],
+		consume_items: true
+	}]
+}

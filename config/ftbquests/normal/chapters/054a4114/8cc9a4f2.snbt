@@ -1,0 +1,28 @@
+{
+	title: "Oxygen Gear",
+	icon: "galacticraftcore:oxygen_gear",
+	x: -6.5d,
+	y: 4.0d,
+	text: [
+		"Craft an Oxygen Mask and Oxygen Gear."
+	],
+	dependencies: [
+		"b88f6fca"
+	],
+	tasks: [{
+		uid: "ebf748be",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_gear"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "53c1db0a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	title: "Real Forge",
+	icon: "tconstruct:seared 1 3",
+	x: 3.0d,
+	y: -3.0d,
+	text: [
+		"Create a Seared Forge from Tinkers Construct."
+	],
+	dependencies: [
+		"119cc36c"
+	],
+	tasks: [{
+		uid: "0138bda2",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}]
+	},
+	{
+		uid: "f9af229c",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	},
+	{
+		uid: "6d9b7c61",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "31cf29b8",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "04389db4",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	},
+	{
+		uid: "13778819",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "8ff41c9c",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	}]
+}

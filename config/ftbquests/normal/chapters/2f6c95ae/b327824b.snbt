@@ -1,0 +1,12 @@
+{
+	title: "Lumberjack",
+	icon: "minecraft:log",
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"Chop down 5 pieces of wood."
+	],
+	dependencies: [
+		"fedf475c"
+	]
+}

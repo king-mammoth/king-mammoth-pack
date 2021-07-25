@@ -1,0 +1,45 @@
+{
+	title: "step one amour",
+	icon: "draconicevolution:wyvern_helm",
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "5f374273",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "038ea405",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "3880194e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	},
+	{
+		uid: "d1d2b1cb",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		consume_items: true,
+		ignore_damage: true
+	}]
+}
