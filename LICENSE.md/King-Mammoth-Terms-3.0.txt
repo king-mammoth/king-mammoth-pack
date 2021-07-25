@@ -1,0 +1,73 @@
+# King Mammoth Modpack 
+
+> Terms and Use
+> Version 3.0, August 16th, 2020
+> Copyright (c) 2020 PulseBeat_02
+
+> King Mammoth Modpack License
+> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
+
+> Our License: All Rights Reserved, Custom License
+
+
+1) When you take hold of our work, we deny your access to copy and claim any content that the King Mammoth Team has made.
+
+  This includes - but is not limited to - the following instances:
+	
+  1a) Content Made by the King Mammoth Team, including:
+
+	* Custom mod configs we have made to take advantage to our modpack. If another user happens to fortuitously
+          have matching configs as us, we will not file any penalties as it is not deliberate, nor is it copying.
+	* CraftTweaker scripts used to refine recipes, remove items, and enhance the quality of our modpack.
+	* Art such as Electronic Art, or even Physical Art we made.
+	* BetterQuesting Quests we have made to add attributes to the Modpack.
+		
+  1b) Selling or distributing the modpack illegally. This includes, but is not limited to:
+
+	* Accessing repost websites to repost a modpack or mod without authorization.
+	* Selling content made by King Mammoth onto blacklisted websites to earn profit without consent.
+
+  1c) Modifying original work to incorporate harmful content, including Pornography, Self-Harm Threats, and Advertising.
+
+
+2) You may use our work for the FOLLOWING CONDTIONS. 
+
+  2a) Personal Use for your own enjoyment.
+
+  2b) Testing Purposes to improve the quality of our content.
+
+
+3) Outright copyright infringement. Our name has been claimed by the King Mammoth Team. It is never permitted to copy our modpack and change the name. Bad consequences will be resulted.
+  
+
+4) You may go onto our issue tracker on GitHub, send an email to us, or ask in Discord to report issues. We allow the following:
+
+  4a) Reporting an issue and telling us the fix to it. This is not considered modifying our files illegally, because you are assisting us.
+  
+  4b) Opening a pull request. We will also accept these requests if they help us while developing the modpack.
+
+  4c) Sending us an email. This is another form of feedback to help us improve the quality.
+
+  4d) Asking us on our Discord. Staff members generally know more about the modpack.
+  
+
+5) There is a reason why the work is provided with no warranty. If you use someone's work and "lie" when it goes wrong, you could experience consequences.
+   Fix the problem yourself. You blaming someone will just make the situation worse.
+   
+   
+6) If you fail to obey this license, you may experience the following consequences:
+
+  6a) We may file a DMCA file takedown request to take down your file. This may result in your work being taken down.
+  
+  6b) We may report your modpack for copyright issues because of you inappropriately not following our license. This may also result in your
+      work being gone.
+	  
+  6c) If you are in our discord server, we will either kick or permanently ban you depending on the severity of the problem.
+
+
+7) Site Terms of Use Modifications. We may revise the terms of use at any time without notice. By playing this modpack, you are agreeing to always check with the current
+   terms and conditions of use.
+   
+
+
+
