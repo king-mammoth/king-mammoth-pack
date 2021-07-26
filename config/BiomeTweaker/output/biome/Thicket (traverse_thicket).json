@@ -1,6 +1,6 @@
 
 {
-  "ID": 113,
+  "ID": 107,
   "Name": "Thicket",
   "Resource Location": "traverse:thicket",
   "Class": "prospector.traverse.world.biomes.BiomeThicket",
@@ -186,12 +186,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
-    "DEAD",
+    "HILLS",
     "WASTELAND",
     "TWILIGHT",
-    "HILLS"
+    "DEAD",
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -65,12 +65,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

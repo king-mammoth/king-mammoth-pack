@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "COLD",
     "SNOWY",
+    "COLD",
     "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
@@ -173,12 +173,6 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.tardis.mod.common.entities.EntityCybermanInvasion",
-      "Weight": 50,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "com.bewitchment.common.entity.living.EntityWerewolf",
       "Weight": 1,
       "Min Group Count": 1,
@@ -231,12 +225,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

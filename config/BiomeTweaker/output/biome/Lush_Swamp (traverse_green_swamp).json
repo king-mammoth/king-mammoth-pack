@@ -1,6 +1,6 @@
 
 {
-  "ID": 98,
+  "ID": 92,
   "Name": "Lush Swamp",
   "Resource Location": "traverse:green_swamp",
   "Class": "prospector.traverse.world.biomes.BiomeLushSwamp",
@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WET",
-    "SWAMP",
-    "LUSH"
+    "LUSH",
+    "SWAMP"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -175,12 +175,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

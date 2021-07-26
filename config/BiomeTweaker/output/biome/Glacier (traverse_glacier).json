@@ -1,6 +1,6 @@
 
 {
-  "ID": 108,
+  "ID": 102,
   "Name": "Glacier",
   "Resource Location": "traverse:glacier",
   "Class": "prospector.traverse.world.biomes.BiomeGlacier",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "COLD",
     "SNOWY",
+    "COLD",
     "MOUNTAIN"
   ],
   "BiomeManager Entries": {
@@ -151,12 +151,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

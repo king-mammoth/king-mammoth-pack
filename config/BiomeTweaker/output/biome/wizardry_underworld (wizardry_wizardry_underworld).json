@@ -1,6 +1,6 @@
 
 {
-  "ID": 117,
+  "ID": 111,
   "Name": "wizardry_underworld",
   "Resource Location": "wizardry:wizardry_underworld",
   "Class": "com.teamwizardry.wizardry.common.world.biome.BiomeUnderWorld",
@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
+    "SPOOKY",
+    "VOID",
     "COLD",
     "MAGICAL",
-    "VOID",
-    "SPOOKY"
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -46,12 +46,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

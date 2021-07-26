@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
-    "RARE",
     "HOT",
-    "MOUNTAIN",
-    "SPARSE"
+    "SPARSE",
+    "RARE",
+    "DRY",
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -133,12 +133,6 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.tardis.mod.common.entities.EntityCybermanInvasion",
-      "Weight": 50,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
       "Weight": 75,
       "Min Group Count": 1,
@@ -185,12 +179,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 121,
+  "ID": 115,
   "Name": "The Beneath",
   "Resource Location": "beneath:the_beneath",
   "Class": "com.shinoow.beneath.common.world.biome.BiomeDeepDank",
@@ -102,12 +102,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     },
     {
       "Entity Class": "com.shinoow.beneath.common.entity.EntityShadow",

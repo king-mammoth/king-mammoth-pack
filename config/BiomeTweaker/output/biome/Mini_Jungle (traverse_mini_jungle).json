@@ -1,6 +1,6 @@
 
 {
-  "ID": 96,
+  "ID": 90,
   "Name": "Mini Jungle",
   "Resource Location": "traverse:mini_jungle",
   "Class": "prospector.traverse.world.biomes.BiomeMiniJungle",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "DENSE",
     "HOT",
-    "JUNGLE"
+    "DENSE",
+    "JUNGLE",
+    "WET"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -176,12 +176,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

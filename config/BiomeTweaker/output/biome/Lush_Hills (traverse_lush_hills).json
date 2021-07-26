@@ -1,6 +1,6 @@
 
 {
-  "ID": 111,
+  "ID": 105,
   "Name": "Lush Hills",
   "Resource Location": "traverse:lush_hills",
   "Class": "prospector.traverse.world.biomes.BiomeLushHills",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "LUSH",
+    "HILLS",
     "SPARSE",
-    "HILLS"
+    "WET",
+    "LUSH"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
@@ -170,12 +170,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

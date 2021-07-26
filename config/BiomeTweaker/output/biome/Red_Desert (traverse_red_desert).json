@@ -1,6 +1,6 @@
 
 {
-  "ID": 99,
+  "ID": 93,
   "Name": "Red Desert",
   "Resource Location": "traverse:red_desert",
   "Class": "prospector.traverse.world.biomes.BiomeRedDesert",
@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
+    "HOT",
     "SANDY",
-    "HOT"
+    "DRY"
   ],
   "BiomeManager Entries": {
     "DESERT Weights": [
@@ -139,12 +139,6 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 100,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [
