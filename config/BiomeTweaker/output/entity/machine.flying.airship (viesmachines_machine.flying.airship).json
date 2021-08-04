@@ -1,6 +1,0 @@
-
-{
-  "Name": "machine.flying.airship",
-  "Registry ID": "viesmachines:machine.flying.airship",
-  "Class": "com.vies.viesmachines.common.entity.machines.types.flying.EntityMachineFlyingAirship"
-}

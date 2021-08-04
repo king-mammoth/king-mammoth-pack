@@ -28,8 +28,9 @@
             "name": "",
             "metadata": 0,
             "count": 1,
+            "rolls": 1,
             "chance": 1.0,
-            "luck": 0.0
+            "meshLevel": 1
           }
         ]
       },
@@ -61,8 +62,9 @@
           "name": "minecraft:diamond",
           "metadata": 0,
           "count": 6,
+          "rolls": 2,
           "chance": 1.0,
-          "luck": 0.0
+          "meshLevel": 1
         }
       ]
     }

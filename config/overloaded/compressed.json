@@ -39,7 +39,7 @@
     "baseRegistryName": "minecraft:netherrack",
     "compressedPathRegistryName": "compressed_netherrack",
     "meta": 0,
-    "texturePath": "minecraft:textures/blocks/cobblestone.png",
+    "texturePath": "minecraft:textures/blocks/netherrack.png",
     "depth": 16,
     "hardnessMultiplier": 9.0,
     "recipeEnabled": true
