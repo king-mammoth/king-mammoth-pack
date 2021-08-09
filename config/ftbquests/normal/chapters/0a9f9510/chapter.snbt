@@ -1,0 +1,10 @@
+{
+	title: "Getting Started",
+	icon: "minecraft:sapling",
+	description: [
+		"You have to start somewhere!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "circle"
+}

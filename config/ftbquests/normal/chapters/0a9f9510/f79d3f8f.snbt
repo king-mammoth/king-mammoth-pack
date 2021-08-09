@@ -1,0 +1,35 @@
+{
+	title: "Get stoned!",
+	x: -0.5d,
+	y: 3.5d,
+	description: "Stone is a very important resource, get some of it!",
+	dependencies: [
+		"83df287c"
+	],
+	tasks: [{
+		uid: "74893a14",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		count: 16L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "80f166fc",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	}]
+}

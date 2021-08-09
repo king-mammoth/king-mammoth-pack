@@ -1,0 +1,34 @@
+{
+	title: "Baaa!",
+	x: -2.5d,
+	y: 3.0d,
+	description: "Wool is useful! Get some!!",
+	dependencies: [
+		"83df287c"
+	],
+	tasks: [{
+		uid: "4f5b2a33",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "wool",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any wool"
+				}
+			}
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "92a947d7",
+		type: "item",
+		item: "minecraft:wool",
+		count: 3
+	}]
+}

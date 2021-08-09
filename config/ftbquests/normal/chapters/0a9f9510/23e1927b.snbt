@@ -1,0 +1,27 @@
+{
+	x: -4.5d,
+	y: 2.0d,
+	dependencies: [
+		"637371e2",
+		"e10a2b08",
+		"0afc3f87"
+	],
+	tasks: [{
+		uid: "e27b5ea1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:basic",
+					spec: "NONE"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}
