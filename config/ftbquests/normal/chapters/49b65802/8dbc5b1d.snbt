@@ -11,8 +11,8 @@
 			id: "projecte:item.pe_klein_star",
 			Damage: 5s
 		}],
-		count: 5000L,
+		count: 2048L,
 		ignore_nbt: 1b,
-		only_from_crafting: true
+		only_from_crafting: false
 	}]
 }

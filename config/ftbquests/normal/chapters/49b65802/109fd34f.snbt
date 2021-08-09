@@ -7,7 +7,7 @@
 		items: [{
 			item: "thermalfoundation:upgrade 1 35"
 		}],
-		count: 5000L,
-		only_from_crafting: true
+		count: 2048L,
+		only_from_crafting: false
 	}]
 }

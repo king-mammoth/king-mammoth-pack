@@ -7,7 +7,7 @@
 		items: [{
 			item: "enderio:item_basic_capacitor 1 2"
 		}],
-		count: 5000L,
-		only_from_crafting: true
+		count: 2048L,
+		only_from_crafting: false
 	}]
 }

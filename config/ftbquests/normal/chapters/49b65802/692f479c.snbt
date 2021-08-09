@@ -7,6 +7,7 @@
 		items: [{
 			item: "projecte:item.pe_matter 1 1"
 		}],
-		count: 5000L
+		count: 2048L,
+		only_from_crafting: false
 	}]
 }

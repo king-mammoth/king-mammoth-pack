@@ -7,6 +7,7 @@
 		items: [{
 			item: "draconicevolution:chaotic_core"
 		}],
-		count: 250L
+		count: 250L,
+		only_from_crafting: false
 	}]
 }
