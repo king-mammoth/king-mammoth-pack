@@ -1,0 +1,14 @@
+{
+	x: -9.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d444f541",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 75s
+		}],
+		count: 5000L
+	}]
+}

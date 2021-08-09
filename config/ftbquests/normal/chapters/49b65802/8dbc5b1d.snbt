@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "016d870e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_klein_star",
+			Damage: 5s
+		}],
+		count: 5000L,
+		ignore_nbt: 1b
+	}]
+}
