@@ -1,0 +1,28 @@
+{
+	title: "Welcome to King Mammoth!",
+	icon: "minecraft:sapling",
+	x: -0.5d,
+	y: -0.5d,
+	shape: "gear",
+	description: "King Mammoth is a giant kitchen sink pack! Your journey will be long and dangerous, take this with you!",
+	tasks: [{
+		uid: "fba164f6",
+		type: "checkmark",
+		title: "Welcome to King Mammoth!"
+	}],
+	rewards: [{
+		uid: "fb58fe0b",
+		type: "xp_levels",
+		xp_levels: 5
+	},
+	{
+		uid: "0eaeb474",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_pickaxe"
+		}
+	}]
+}

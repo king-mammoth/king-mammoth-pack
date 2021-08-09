@@ -1,0 +1,24 @@
+{
+	title: "Leathery...",
+	x: -2.5d,
+	y: 1.0d,
+	description: "I want some nice boots!",
+	dependencies: [
+		"83df287c"
+	],
+	tasks: [{
+		uid: "1f6746bc",
+		type: "item",
+		items: [{
+			item: "minecraft:leather"
+		}],
+		count: 4L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "eaa32367",
+		type: "item",
+		item: "minecraft:leather",
+		count: 4
+	}]
+}

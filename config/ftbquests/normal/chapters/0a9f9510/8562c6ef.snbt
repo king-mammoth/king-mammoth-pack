@@ -1,0 +1,23 @@
+{
+	title: "Your christmas present!",
+	x: -1.5d,
+	y: 6.0d,
+	description: "You have a furnace, but you need fuel!",
+	dependencies: [
+		"bfc917e1"
+	],
+	tasks: [{
+		uid: "8df448bd",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "2c083888",
+		type: "item",
+		item: "minecraft:coal",
+		count: 8
+	}]
+}

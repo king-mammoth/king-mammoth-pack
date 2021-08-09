@@ -1,0 +1,34 @@
+{
+	x: -2.5d,
+	y: 2.0d,
+	description: "You need to store all that stuff somewhere! Why not make a chest?",
+	dependencies: [
+		"83df287c"
+	],
+	tasks: [{
+		uid: "2bfb6b80",
+		type: "item",
+		title: "I can store a dead body in here!",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "chest",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any chest"
+				}
+			}
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "df841ebf",
+		type: "item",
+		item: "minecraft:chest",
+		count: 2
+	}]
+}

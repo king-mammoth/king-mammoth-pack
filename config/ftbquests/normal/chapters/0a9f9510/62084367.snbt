@@ -1,0 +1,21 @@
+{
+	x: 0.5d,
+	y: 6.0d,
+	dependencies: [
+		"bfc917e1"
+	],
+	tasks: [{
+		uid: "095dea08",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "a99e7b8e",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	}]
+}
