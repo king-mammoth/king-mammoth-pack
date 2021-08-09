@@ -9,6 +9,7 @@
 			tag: {},
 			Damage: 75s
 		}],
-		count: 5000L
+		count: 5000L,
+		only_from_crafting: true
 	}]
 }

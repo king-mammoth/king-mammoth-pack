@@ -12,6 +12,7 @@
 			Damage: 5s
 		}],
 		count: 5000L,
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: true
 	}]
 }
