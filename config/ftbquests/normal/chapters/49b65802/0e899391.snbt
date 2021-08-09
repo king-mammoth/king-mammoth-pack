@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a1d2e85d",
+		type: "item",
+		items: [{
+			item: "avaritia:resource"
+		}]
+	}]
+}

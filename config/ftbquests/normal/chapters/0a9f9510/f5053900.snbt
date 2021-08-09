@@ -1,0 +1,26 @@
+{
+	title: "Diamonds?!?",
+	icon: "minecraft:diamond",
+	x: -0.5d,
+	y: 7.0d,
+	shape: "pentagon",
+	description: "Diamonds are awesome! Get some!",
+	dependencies: [
+		"8562c6ef",
+		"62084367"
+	],
+	tasks: [{
+		uid: "3d8d7d0e",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "bd38990c",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 3
+	}]
+}

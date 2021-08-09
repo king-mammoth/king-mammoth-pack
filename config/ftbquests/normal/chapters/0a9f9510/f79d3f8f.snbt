@@ -29,7 +29,7 @@
 	rewards: [{
 		uid: "80f166fc",
 		type: "item",
-		item: "minecraft:iron_ingot",
-		count: 4
+		item: "minecraft:cobblestone",
+		count: 48
 	}]
 }

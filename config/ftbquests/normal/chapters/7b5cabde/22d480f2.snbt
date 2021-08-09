@@ -1,0 +1,30 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	description: "The pulverizer, when provided with power will turn any ore into 2 dust, the dust can then be smelted into 2 ingots. effectively doubling ore output.",
+	dependencies: [
+		"96e9f62d"
+	],
+	tasks: [{
+		uid: "ec6331ef",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 1s
+		}]
+	}]
+}

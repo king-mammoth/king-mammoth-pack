@@ -1,0 +1,12 @@
+{
+	x: -9.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "da203cf7",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 2"
+		}],
+		count: 5000L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -9.5d,
+	tasks: [{
+		uid: "cc51466e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:cad_assembly",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	}]
+}

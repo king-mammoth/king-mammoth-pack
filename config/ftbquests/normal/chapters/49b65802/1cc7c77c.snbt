@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "45741f9e",
+		type: "item",
+		items: [{
+			id: "enderio:block_cap_bank",
+			tag: {
+				"enderio:energy": 50000000
+			}
+		}]
+	}]
+}
