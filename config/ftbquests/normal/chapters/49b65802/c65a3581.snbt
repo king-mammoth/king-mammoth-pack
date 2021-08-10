@@ -1,0 +1,13 @@
+{
+	x: -6.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "e3565637",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:insanium 1 2"
+		}],
+		count: 2048L,
+		only_from_crafting: false
+	}]
+}

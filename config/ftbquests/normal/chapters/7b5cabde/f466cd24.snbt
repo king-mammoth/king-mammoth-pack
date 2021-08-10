@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	description: "The leadstone fluxduct allows you to transfer power! Place it on the red top part of the steam dynamo to extract power then hook it up to your machines to insert power!",
+	dependencies: [
+		"96e9f62d"
+	],
+	tasks: [{
+		uid: "b459f59c",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	}],
+	rewards: [{
+		uid: "53b0903e",
+		type: "item",
+		item: "thermaldynamics:duct_0",
+		count: 8
+	}]
+}

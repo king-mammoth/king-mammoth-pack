@@ -1,0 +1,13 @@
+{
+	x: -7.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20bf095a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 35"
+		}],
+		count: 2048L,
+		only_from_crafting: false
+	}]
+}

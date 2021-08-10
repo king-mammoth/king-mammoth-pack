@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "8c606106",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 10s,
+					id: 35
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "232940ea",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative"
+		}]
+	}]
+}
