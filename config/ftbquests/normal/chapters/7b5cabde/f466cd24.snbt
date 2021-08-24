@@ -10,12 +10,18 @@
 		type: "item",
 		items: [{
 			item: "thermaldynamics:duct_0"
-		}]
+		}],
+		count: 6L
 	}],
 	rewards: [{
 		uid: "53b0903e",
 		type: "item",
 		item: "thermaldynamics:duct_0",
 		count: 8
+	},
+	{
+		uid: "5f81dcc9",
+		type: "loot",
+		table: 0
 	}]
 }

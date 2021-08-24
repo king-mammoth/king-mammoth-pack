@@ -30,5 +30,10 @@
 		type: "item",
 		item: "thermaldynamics:duct_16",
 		count: 6
+	},
+	{
+		uid: "0a67020b",
+		type: "random",
+		table: 0
 	}]
 }

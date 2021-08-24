@@ -23,5 +23,10 @@
 		type: "item",
 		item: "minecraft:coal",
 		count: 16
+	},
+	{
+		uid: "e767c924",
+		type: "loot",
+		table: 0
 	}]
 }

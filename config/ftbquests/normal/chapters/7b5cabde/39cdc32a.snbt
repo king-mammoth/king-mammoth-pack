@@ -25,5 +25,10 @@
 				Level: 0b
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "c281c856",
+		type: "loot",
+		table: 1
 	}]
 }

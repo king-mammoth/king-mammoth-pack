@@ -1,0 +1,25 @@
+{
+	title: "Blast Furnace",
+	x: -1.5d,
+	y: 1.0d,
+	text: [
+		"WIP"
+	],
+	dependencies: [
+		"169cfe2b"
+	],
+	tasks: [{
+		uid: "13fabd6b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 24L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "d7cb7f37",
+		type: "loot",
+		table: 0
+	}]
+}
