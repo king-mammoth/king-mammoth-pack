@@ -3,7 +3,7 @@
 	x: -1.5d,
 	y: 1.0d,
 	text: [
-		"WIP"
+		"The Blast Furnace takes Iron Ingots and Coal and outputs steel."
 	],
 	dependencies: [
 		"169cfe2b"
@@ -18,8 +18,13 @@
 		consume_items: false
 	}],
 	rewards: [{
-		uid: "d7cb7f37",
-		type: "loot",
-		table: 0
+		uid: "291297d4",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
 	}]
 }

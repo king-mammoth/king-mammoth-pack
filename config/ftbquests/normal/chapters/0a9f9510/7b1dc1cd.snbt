@@ -1,18 +1,21 @@
 {
-	x: 0.5d,
-	y: 1.0d,
+	title: "Gold Rush",
+	x: 1.5d,
+	y: 5.0d,
+	description: "Your rich now!",
 	dependencies: [
-		"169cfe2b"
+		"62084367"
 	],
 	tasks: [{
-		uid: "8919c15f",
+		uid: "c036009b",
 		type: "item",
 		items: [{
-			item: "immersiveengineering:metal_device1 1 2"
-		}]
+			item: "minecraft:gold_ingot"
+		}],
+		count: 4L
 	}],
 	rewards: [{
-		uid: "134c3fe0",
+		uid: "0a30d72d",
 		type: "item",
 		item: {
 			id: "ftbquests:lootcrate",

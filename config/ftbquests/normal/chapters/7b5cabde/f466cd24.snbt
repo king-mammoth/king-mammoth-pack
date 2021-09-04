@@ -20,8 +20,13 @@
 		count: 8
 	},
 	{
-		uid: "5f81dcc9",
-		type: "loot",
-		table: 0
+		uid: "15e3d688",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
 	}]
 }

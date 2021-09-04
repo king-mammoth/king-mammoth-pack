@@ -32,8 +32,13 @@
 		count: 6
 	},
 	{
-		uid: "0a67020b",
-		type: "random",
-		table: 0
+		uid: "79346f05",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
 	}]
 }

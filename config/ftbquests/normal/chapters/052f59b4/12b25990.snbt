@@ -31,8 +31,13 @@
 		}
 	},
 	{
-		uid: "9710b189",
-		type: "loot",
-		table: 0
+		uid: "69096b28",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
 	}]
 }

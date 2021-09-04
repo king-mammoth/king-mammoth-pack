@@ -2,7 +2,7 @@
 	title: "Diamonds?!?",
 	icon: "minecraft:diamond",
 	x: -0.5d,
-	y: 7.0d,
+	y: 7.5d,
 	shape: "pentagon",
 	description: "Diamonds are awesome! Get some!",
 	dependencies: [

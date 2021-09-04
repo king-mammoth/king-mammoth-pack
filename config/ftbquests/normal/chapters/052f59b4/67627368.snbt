@@ -21,8 +21,13 @@
 		count: 8L
 	}],
 	rewards: [{
-		uid: "697010a1",
-		type: "loot",
-		table: 1
+		uid: "167c26b4",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
 	}]
 }
