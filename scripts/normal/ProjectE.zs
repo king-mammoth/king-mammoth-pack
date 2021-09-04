@@ -6,6 +6,21 @@ recipes.remove(<projectex:stone_table>);
 recipes.remove(<projecte:transmutation_table>);
 recipes.remove(<projecte:condenser_mk1>);
 
+
+
+recipes.remove(<projecte:item.pe_repair_talisman>);
+
+mods.avaritia.ExtremeCrafting.addShaped("Repair Talisman", <projecte:item.pe_repair_talisman>,
+ [[<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>],
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<mekanism:polyethene:2>,<mekanism:polyethene:2>,<mekanism:polyethene:2>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:neutronium_plate>,<avaritia:singularity:3>],       
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<mekanism:polyethene:2>,<moreplates:infinity_plate>,<extendedcrafting:singularity_ultimate>,<moreplates:infinity_plate>,<mekanism:polyethene:2>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<mekanism:polyethene:2>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<mekanism:polyethene:2>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],   
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<mekanism:polyethene:2>,<mekanism:polyethene:2>,<mekanism:polyethene:2>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:neutronium_plate>,<avaritia:singularity:3>],          
+  [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
+  [<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>]]);
+
 mods.avaritia.ExtremeCrafting.addShaped("Philosophers Stone", <projecte:item.pe_philosophers_stone>,
  [[<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>],
   [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
