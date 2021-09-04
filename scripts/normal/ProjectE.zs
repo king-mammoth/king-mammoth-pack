@@ -4,7 +4,7 @@ print("initializing 'ProjectE.zs'...");
 recipes.remove(<projecte:item.pe_philosophers_stone>);
 recipes.remove(<projectex:stone_table>);
 recipes.remove(<projecte:transmutation_table>);
-recipes.remove(<projecte:condenser_mk1>)
+recipes.remove(<projecte:condenser_mk1>);
 
 mods.avaritia.ExtremeCrafting.addShaped("Philosophers Stone", <projecte:item.pe_philosophers_stone>,
  [[<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>],
