@@ -4,6 +4,7 @@ print("initializing 'ProjectE.zs'...");
 recipes.remove(<projecte:item.pe_philosophers_stone>);
 recipes.remove(<projectex:stone_table>);
 recipes.remove(<projecte:transmutation_table>);
+recipes.remove(<projecte:condenser_mk1>)
 
 mods.avaritia.ExtremeCrafting.addShaped("Philosophers Stone", <projecte:item.pe_philosophers_stone>,
  [[<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>],
@@ -15,7 +16,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Philosophers Stone", <projecte:item.pe_
   [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<mekanism:polyethene:2>,<mekanism:polyethene:2>,<mekanism:polyethene:2>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:neutronium_plate>,<avaritia:singularity:3>],          
   [<avaritia:singularity:3>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:3>],
   [<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:3>,<avaritia:singularity:3>,<avaritia:singularity:3>]]);
-
+  
 recipes.addShaped("Transmutation Table", <projecte:transmutation_table>,
  [[<extrautils2:passivegenerator:6>,<botania:pool:1>,<enderio:block_cap_bank>.withTag({"enderio:energy": 50000000})],
   [<appliedenergistics2:creative_energy_cell>,<projecte:item.pe_philosophers_stone>.reuse(),<refinedstorage:controller:1>.withTag({Energy: 32000})],
@@ -25,3 +26,14 @@ recipes.addShaped("Stone Transmutation Table", <projectex:stone_table>,
  [[<extrautils2:compressedcobblestone:7>,<extrautils2:compressedcobblestone:7>,<extrautils2:compressedcobblestone:7>],
   [<extrautils2:compressedcobblestone:7>,<projecte:transmutation_table>,<extrautils2:compressedcobblestone:7>],
   [<extrautils2:compressedcobblestone:7>,<extrautils2:compressedcobblestone:7>,<extrautils2:compressedcobblestone:7>]]);
+
+  mods.avaritia.ExtremeCrafting.addShaped("Energy Condenser MK1", <projecte:condenser_mk1>,
+ [[<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>],
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:10>],
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:10>],
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:neutronium_plate>,<avaritia:singularity:10>],       
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<moreplates:infinity_plate>,<extendedcrafting:singularity_ultimate>,<extendedcrafting:singularity_ultimate>,<extendedcrafting:singularity_ultimate>,<moreplates:infinity_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:10>],
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:10>],   
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:infinity_plate>,<moreplates:infinity_plate>,<moreplates:infinity_plate>,<industrialforegoing:black_hole_tank>.withTag({FluidName: "ic2uu_matter", Amount: 2147483647}),<moreplates:neutronium_plate>,<avaritia:singularity:10>],          
+  [<avaritia:singularity:10>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<moreplates:neutronium_plate>,<avaritia:singularity:10>],
+  [<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:12>,<avaritia:singularity:10>,<avaritia:singularity:10>,<avaritia:singularity:10>]]);
