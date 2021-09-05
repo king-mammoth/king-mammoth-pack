@@ -1,15 +1,15 @@
 {
   "inventory": {
-    "0:5": "minecraft:cooked_beef,16",
-    "0:3": "minecraft:stone_shovel",
-    "0:0": "minecraft:stone_sword",
     "1:2": "minecraft:leather_chestplate",
-    "0:6": "ftbquests:book",
-    "1:0": "minecraft:leather_boots",
-    "1:3": "minecraft:leather_helmet",
+    "0:4": "minecraft:stone_hoe",
+    "0:5": "minecraft:cooked_beef,16",
     "1:1": "minecraft:leather_leggings",
+    "0:3": "minecraft:stone_shovel",
+    "1:0": "minecraft:leather_boots",
+    "0:6": "akashictome:tome,1,0,{\"akashictome:data\":{rftoolscontrol:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftoolscontrol:rftoolscontrol_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"rftoolscontrol\"},Damage:0s},industrialforegoing:{id:\"industrialforegoing:book_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"industrialforegoing\"},Damage:0s},tconstruct:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:book\",Count:1b,tag:{\"akashictome:definedMod\":\"tconstruct\"},Damage:0s},agricraft:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"agricraft:journal\",Count:1b,tag:{\"akashictome:definedMod\":\"agricraft\"},Damage:0s},buildcraftlib:{id:\"buildcraftlib:guide\",Count:1b,tag:{\"akashictome:definedMod\":\"buildcraftlib\"},Damage:0s},conarm:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:book\",Count:1b,tag:{\"akashictome:definedMod\":\"conarm\"},Damage:0s},ftbquests:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"ftbquests:book\",Count:1b,tag:{\"akashictome:definedMod\":\"ftbquests\"},Damage:0s},pneumaticcraft:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"patchouli:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"pneumaticcraft\",\"patchouli:book\":\"pneumaticcraft:book\"},Damage:0s},immersiveengineering:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:tool\",Count:1b,tag:{\"akashictome:definedMod\":\"immersiveengineering\"},Damage:3s},valkyrielib:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"valkyrielib:guide\",Count:1b,tag:{\"akashictome:definedMod\":\"valkyrielib\"},Damage:0s},rftools:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:rftools_shape_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"rftools\"},Damage:0s},immersiverailroading:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiverailroading:item_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"immersiverailroading\"},Damage:0s},rftools1:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftoolsdim:rftoolsdim_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"rftools1\"},Damage:0s},rftools2:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:rftools_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"rftools2\"},Damage:0s},extendedcrafting:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extendedcrafting:guide\",Count:1b,tag:{\"akashictome:definedMod\":\"extendedcrafting\"},Damage:0s},botania:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lexicon\",Count:1b,tag:{\"akashictome:definedMod\":\"botania\"},Damage:0s},extrautils2:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:book\",Count:1b,tag:{\"akashictome:definedMod\":\"extrautils2\"},Damage:0s},logisticspipes:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"logisticspipes:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"logisticspipes\"},Damage:0s},bloodmagic:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"guideapi:bloodmagic-guide\",Count:1b,tag:{\"akashictome:definedMod\":\"bloodmagic\"},Damage:0s},actuallyadditions:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_booklet\",Count:1b,tag:{\"akashictome:definedMod\":\"actuallyadditions\"},Damage:0s},opencomputers:{id:\"opencomputers:tool\",Count:1b,tag:{\"akashictome:definedMod\":\"opencomputers\"},Damage:4s},forestry:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forestry:book_forester\",Count:1b,tag:{\"akashictome:definedMod\":\"forestry\"},Damage:0s},xnet:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"xnet:xnet_manual\",Count:1b,tag:{\"akashictome:definedMod\":\"xnet\"},Damage:0s}}}",
+    "0:0": "minecraft:stone_sword",
     "0:1": "minecraft:stone_pickaxe",
-    "0:2": "minecraft:stone_axe",
-    "0:4": "minecraft:stone_hoe"
+    "1:3": "minecraft:leather_helmet",
+    "0:2": "minecraft:stone_axe"
   }
 }

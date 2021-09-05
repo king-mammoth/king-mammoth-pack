@@ -1,0 +1,24 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"67627368"
+	],
+	tasks: [{
+		uid: "7b4480bd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	}],
+	rewards: [{
+		uid: "f02944ae",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

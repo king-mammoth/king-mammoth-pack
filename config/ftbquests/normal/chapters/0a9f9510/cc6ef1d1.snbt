@@ -1,0 +1,27 @@
+{
+	title: "Blue like Azul",
+	x: 1.5d,
+	y: 7.0d,
+	description: "This is actually a ore as rare as diamonds!",
+	dependencies: [
+		"62084367"
+	],
+	tasks: [{
+		uid: "ccfd336a",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "5488a083",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

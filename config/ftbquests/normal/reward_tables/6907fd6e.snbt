@@ -1,0 +1,56 @@
+{
+	title: "Ultimate Lootcrate",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "ultimate_lootcrate"
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: "avaritia:resource 1 5",
+		count: 32,
+		weight: 100
+	},
+	{
+		item: "avaritia:resource 1 6",
+		count: 16,
+		weight: 75
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 10s,
+					id: 35
+				}]
+			}
+		},
+		weight: 20
+	},
+	{
+		item: "mysticalagradditions:nether_star_seeds",
+		count: 32,
+		weight: 70
+	},
+	{
+		item: "draconicevolution:chaotic_core",
+		count: 16,
+		weight: 65
+	}],
+	loot_crate: {
+		string_id: "ultimate_lootcrate",
+		item_name: "Ultimate Lootcrate",
+		color: 0,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

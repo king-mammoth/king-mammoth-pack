@@ -1,12 +1,14 @@
 {
 	x: 0.5d,
-	y: 0.5d,
-	description: "The pulverizer, when provided with power will turn any ore into 2 dust, the dust can then be smelted into 2 ingots. effectively doubling ore output.",
+	y: -1.0d,
+	text: [
+		"The induction smelter creates alloys when supplied with ingredients and power."
+	],
 	dependencies: [
 		"96e9f62d"
 	],
 	tasks: [{
-		uid: "ec6331ef",
+		uid: "a782c457",
 		type: "item",
 		items: [{
 			id: "thermalexpansion:machine",
@@ -24,11 +26,11 @@
 				],
 				Level: 0b
 			},
-			Damage: 1s
+			Damage: 3s
 		}]
 	}],
 	rewards: [{
-		uid: "a21d1971",
+		uid: "12d673af",
 		type: "item",
 		item: {
 			id: "ftbquests:lootcrate",

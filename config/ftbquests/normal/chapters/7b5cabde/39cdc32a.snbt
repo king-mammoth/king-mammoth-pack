@@ -25,5 +25,15 @@
 				Level: 0b
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "029f34dd",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "uncommon_lootcrate"
+			}
+		}
 	}]
 }

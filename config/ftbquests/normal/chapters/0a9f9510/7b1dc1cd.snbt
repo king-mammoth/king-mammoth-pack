@@ -1,0 +1,27 @@
+{
+	title: "Gold Rush",
+	x: 1.5d,
+	y: 5.0d,
+	description: "Your rich now!",
+	dependencies: [
+		"62084367"
+	],
+	tasks: [{
+		uid: "c036009b",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "0a30d72d",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

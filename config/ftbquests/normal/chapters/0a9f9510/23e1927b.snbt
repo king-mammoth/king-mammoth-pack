@@ -1,6 +1,10 @@
 {
 	x: -4.5d,
 	y: 2.0d,
+	description: "Backpack! Backpack!",
+	text: [
+		"This is a very useful item, look in your controls for the hotkey."
+	],
 	dependencies: [
 		"637371e2",
 		"e10a2b08",
