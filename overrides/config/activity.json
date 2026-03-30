@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Irgendwer1",
+      "uniqueId": "a7d91a8e-1d74-4fec-869f-c3a316ce351d"
+    },
+    "time": 1774840081734,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/mNpAILCU4i"
+    }
+  }
+]

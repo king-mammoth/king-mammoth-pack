@@ -1,0 +1,20 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "rootsclassic:altar",
+            "rootsclassic:brazier",
+            "rootsclassic:standingstoneaccelerator",
+            "rootsclassic:standingstoneaesthetic",
+            "rootsclassic:standingstoneentangler",
+            "rootsclassic:standingstonegrower",
+            "rootsclassic:standingstonehealer",
+            "rootsclassic:standingstoneigniter",
+            "rootsclassic:standingstonerepulsor",
+            "rootsclassic:standingstonet1",
+            "rootsclassic:standingstonet2",
+            "rootsclassic:standingstonevacuum"
+        ],
+        "canFluidFlow": true
+    }
+]

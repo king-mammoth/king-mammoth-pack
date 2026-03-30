@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "computercraft:advanced_modem",
+            "computercraft:cable",
+            "computercraft:peripheral"
+        ],
+        "canFluidFlow": true
+    }
+]

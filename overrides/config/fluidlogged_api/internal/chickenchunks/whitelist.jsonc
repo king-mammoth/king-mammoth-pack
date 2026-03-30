@@ -1,0 +1,13 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "chickenchunks:chunk_loader",
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"type": "chunk_loader"}
+    },
+    {
+        "blockId": "chickenchunks:chunk_loader",
+        "canFluidFlow": true,
+        "states": {"type": "spot_loader"}
+    }
+]

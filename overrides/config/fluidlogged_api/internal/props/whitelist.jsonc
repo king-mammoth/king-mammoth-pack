@@ -1,0 +1,10 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "props:blockfake",
+            "props:blockprops"
+        ],
+        "canFluidFlow": true
+    }
+]

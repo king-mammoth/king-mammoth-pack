@@ -1,0 +1,26 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "extendedcrafting:pedestal",
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "extendedcrafting:table_advanced",
+            "extendedcrafting:table_basic",
+            "extendedcrafting:table_elite",
+            "extendedcrafting:table_ultimate"
+        ],
+        "boxes": {"min": 10, "max": 16}
+    },
+    {
+        "blockId": "extendedcrafting:ender_alternator",
+        "boxes": {"min": 0, "max": 6},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "extendedcrafting:interface",
+        "boxes": {"min": 13, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]
