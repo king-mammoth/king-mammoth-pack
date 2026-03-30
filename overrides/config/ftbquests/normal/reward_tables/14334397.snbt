@@ -1,0 +1,53 @@
+{
+	title: "Common Lootcrate",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "common_lootcrate"
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:iron_ingot",
+		count: 4,
+		weight: 5
+	},
+	{
+		item: "minecraft:gold_ingot",
+		count: 2,
+		weight: 3
+	},
+	{
+		item: "minecraft:diamond"
+	},
+	{
+		item: "minecraft:log",
+		count: 16,
+		weight: 7
+	},
+	{
+		item: "minecraft:carrot",
+		count: 24,
+		weight: 6
+	},
+	{
+		item: "harvestcraft:apple_sapling",
+		count: 5,
+		weight: 5
+	},
+	{
+		item: "thermalfoundation:material 1 128",
+		count: 4,
+		weight: 5
+	}],
+	loot_crate: {
+		string_id: "common_lootcrate",
+		item_name: "Common Lootcrate",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

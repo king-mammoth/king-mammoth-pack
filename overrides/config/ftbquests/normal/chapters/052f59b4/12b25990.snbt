@@ -1,0 +1,43 @@
+{
+	title: "Coke Oven",
+	x: -0.5d,
+	y: 1.0d,
+	text: [
+		"Combine 24 Coke Brick in a 3x3x3 cube and right click it with a Engineer's Hammer to get a Coke Oven! This will be used to make Creosote Oil, which is used for Treated Wood! It also makes Coal Coke."
+	],
+	dependencies: [
+		"169cfe2b"
+	],
+	tasks: [{
+		uid: "b94e3c85",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "97c3c6df",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "creosote",
+				Amount: 1000
+			}
+		}
+	},
+	{
+		uid: "69096b28",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

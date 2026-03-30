@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "9ca01dc7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

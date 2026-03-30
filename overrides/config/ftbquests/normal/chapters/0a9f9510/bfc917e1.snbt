@@ -1,0 +1,22 @@
+{
+	title: "Somethings burning...",
+	x: -0.5d,
+	y: 5.0d,
+	description: "Food, ore, whatever, you can throw it in here and cook it!",
+	dependencies: [
+		"f79d3f8f"
+	],
+	tasks: [{
+		uid: "1a6da87e",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "ec1f6127",
+		type: "item",
+		item: "minecraft:coal",
+		count: 2
+	}]
+}

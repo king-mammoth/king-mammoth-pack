@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	description: "Thermal is a very powerful tech mod that can lead you through early-game all the way to late-game. We are going to help you through the mod so you don't get lost!",
+	tasks: [{
+		uid: "6d2deb05",
+		type: "checkmark",
+		title: "Starting Thermal!"
+	}],
+	rewards: [{
+		uid: "3921de4f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}
+	}]
+}

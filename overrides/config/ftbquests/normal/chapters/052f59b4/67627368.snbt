@@ -1,0 +1,33 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	dependencies: [
+		"884e0b59"
+	],
+	tasks: [{
+		uid: "8b33b18d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}],
+		count: 4L
+	},
+	{
+		uid: "277eea8e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "167c26b4",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

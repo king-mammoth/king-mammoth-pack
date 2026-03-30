@@ -1,0 +1,42 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	text: [
+		"The induction smelter creates alloys when supplied with ingredients and power."
+	],
+	dependencies: [
+		"96e9f62d"
+	],
+	tasks: [{
+		uid: "a782c457",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "12d673af",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "uncommon_lootcrate"
+			}
+		}
+	}]
+}

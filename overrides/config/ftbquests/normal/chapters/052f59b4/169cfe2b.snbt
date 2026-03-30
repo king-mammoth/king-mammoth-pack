@@ -1,0 +1,33 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	text: [
+		"Immersive Engineering, or IE for short, is a great tech mod focusing on large multiblock machines."
+	],
+	tasks: [{
+		uid: "f9b71c5b",
+		type: "checkmark",
+		title: "Welcome to Immersive Engineering!"
+	}],
+	rewards: [{
+		uid: "812a500e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
+		}
+	},
+	{
+		uid: "74aed4ce",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool",
+			Damage: 1s
+		}
+	}]
+}

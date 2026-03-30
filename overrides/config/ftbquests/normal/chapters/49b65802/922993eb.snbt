@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e0a56600",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

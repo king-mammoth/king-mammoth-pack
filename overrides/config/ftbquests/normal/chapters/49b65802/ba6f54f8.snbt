@@ -1,0 +1,13 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "da203cf7",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 2"
+		}],
+		count: 2048L,
+		only_from_crafting: false
+	}]
+}

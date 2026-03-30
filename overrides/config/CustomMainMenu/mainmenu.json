@@ -1,0 +1,226 @@
+{
+  "images":
+    {
+      "logo":
+          {
+              "image" : "modpack:textures/buttons/packlogo.png",
+              "posX" : 70,
+              "posY" : -27,
+              "width" : 301,
+              "height" : 301,
+              "alignment" : "top_left"
+        },
+        "avi":
+        {
+            "image" : "modpack:textures/buttons/text.png",
+            "posX" : -85,
+            "posY" : 165,
+            "width" : 350,
+            "height" : 125,
+            "alignment" : "top_center"
+        },
+
+		"black_sp":
+        {
+            "image" : "modpack:textures/buttons/bg_hex2.png",
+            "posX" : 44,
+            "posY" : 18,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        },
+		"black_mp":
+        {
+            "image" : "modpack:textures/buttons/bg_hex2.png",
+            "posX" : 102,
+            "posY" : 18,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        },
+		"black_mod":
+        {
+            "image" : "modpack:textures/buttons/bg_hex2.png",
+            "posX" : 73,
+            "posY" : 71,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        },
+		"black_sett":
+        {
+            "image" : "modpack:textures/buttons/bg_hex2.png",
+            "posX" : 15,
+            "posY" : 71,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        }
+
+	},
+
+    "buttons":
+    {
+
+		"sp_button":
+        {
+            "text" : "Single",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/single.png",
+            "posX" : 40,
+            "posY" : 20,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+		"multiplayer":
+        {
+            "text" : "Servers",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/multi.png",
+            "posX" : 98,
+            "posY" : 20,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+		"options":
+        {
+            "text" : "Options",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/settings.png",
+            "posX" : 11,
+            "posY" : 73,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+
+
+        "mods":
+        {
+            "text" : "Mod-list",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/mods.png",
+            "posX" : 69,
+            "posY" : 73,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		"quit":
+        {
+            "text" : "Close KM",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/quit.png",
+            "posX" : -69,
+            "posY" : -85,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+		"language":
+        {
+            "text" : "Set Language",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "modpack:textures/buttons/lang.png",
+            "posX" : -127,
+            "posY" : -85,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+				"gui" : "languages"
+            }
+        },
+        "versionChecker":
+        {
+            "text" : "Version-Checker",
+            "posX" : 2,
+            "posY" : -35,
+            "width" : 100,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "bottom_left",
+            "wrappedButton" : 404
+        }
+	},
+
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for MC #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+			"fontSize" : 1,
+            "alignment" : "bottom_left"
+        },
+
+		"packTxt":
+        {
+            "text" : "AAIII - 0.0.1a",
+            "posX" : 2,
+            "posY" : 2,
+            "color" : -1,
+            "alignment" : "top_left"
+        }
+    },
+
+    "other":
+    {
+		"background":
+		{
+			"image" : "modpack:textures/bg.png",
+			"mode" : "stretch"
+		}
+    }
+}

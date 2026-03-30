@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "1998db50",
+		type: "item",
+		items: [{
+			item: "moreplates:infinity_gear"
+		}]
+	}]
+}

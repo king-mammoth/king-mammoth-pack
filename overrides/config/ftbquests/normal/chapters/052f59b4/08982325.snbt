@@ -1,0 +1,24 @@
+{
+	x: 0.5d,
+	y: 2.5d,
+	dependencies: [
+		"884e0b59"
+	],
+	tasks: [{
+		uid: "ac4e3288",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1"
+		}]
+	}],
+	rewards: [{
+		uid: "401789ca",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	description: "A very useful Item!",
+	text: [
+		"The time in a bottle stores time played and allows you to use it to speed up tile entities (Furnaces, Pulverizers, etc)."
+	],
+	dependencies: [
+		"7b1dc1cd",
+		"cc6ef1d1"
+	],
+	tasks: [{
+		uid: "3dde9b18",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e7837373",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "uncommon_lootcrate"
+			}
+		}
+	}]
+}

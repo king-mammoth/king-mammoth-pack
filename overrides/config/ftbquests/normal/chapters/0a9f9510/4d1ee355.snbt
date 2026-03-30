@@ -1,0 +1,38 @@
+{
+	title: "Zzzzz",
+	x: -2.5d,
+	y: 4.5d,
+	description: "I'm sleepy, make me a bed!",
+	dependencies: [
+		"e10a2b08"
+	],
+	tasks: [{
+		uid: "0cea9e48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "bed",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bed"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "39d2f2cd",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:sleeping_bag"
+		}
+	}]
+}

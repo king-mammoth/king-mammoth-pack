@@ -1,0 +1,13 @@
+{
+	x: -8.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "6212e450",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter 1 1"
+		}],
+		count: 2048L,
+		only_from_crafting: false
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -8.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "c3715c95",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}],
+		count: 250L,
+		only_from_crafting: false
+	}]
+}

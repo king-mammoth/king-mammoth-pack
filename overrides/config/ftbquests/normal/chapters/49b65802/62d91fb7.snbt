@@ -1,0 +1,13 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "ad58d04a",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit 1 3"
+		}],
+		count: 2048L,
+		only_from_crafting: false
+	}]
+}

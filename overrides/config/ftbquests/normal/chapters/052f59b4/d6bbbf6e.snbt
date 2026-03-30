@@ -1,0 +1,30 @@
+{
+	title: "Blast Furnace",
+	x: -1.5d,
+	y: 1.0d,
+	text: [
+		"The Blast Furnace takes Iron Ingots and Coal and outputs steel."
+	],
+	dependencies: [
+		"169cfe2b"
+	],
+	tasks: [{
+		uid: "13fabd6b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 24L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "291297d4",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}

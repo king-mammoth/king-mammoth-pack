@@ -1,0 +1,27 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	description: "When provided with both water and coal the Steam Dynamo will produce RF, which is power used for all thermal machines.",
+	dependencies: [
+		"77b1f104"
+	],
+	tasks: [{
+		uid: "be994203",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "585db932",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	}]
+}

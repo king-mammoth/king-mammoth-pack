@@ -1,0 +1,37 @@
+{
+	title: "You have Water, You Have Lava.",
+	x: -0.5d,
+	y: 9.0d,
+	description: "Get 12 Obsidian to go to the Nether!",
+	dependencies: [
+		"f5053900"
+	],
+	tasks: [{
+		uid: "d21a7fb3",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "3e51dfa1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:flint_and_steel"
+		}
+	},
+	{
+		uid: "ded0e6c2",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "common_lootcrate"
+			}
+		}
+	}]
+}
