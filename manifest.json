@@ -1,4 +1,4 @@
-   {
+{
    "author":"",
    "files":[
       {
@@ -2160,5 +2160,5 @@
    },
    "name":"KingMammoth",
    "overrides":"overrides",
-   "version":0.5.2"
+   "version": "0.5.2"
 }
