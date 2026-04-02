@@ -1,4 +1,4 @@
-{
+   {
    "author":"",
    "files":[
       {
@@ -2094,11 +2094,6 @@
       {
          "fileID":2712670,
          "projectID":244049,
-         "required":true
-      },
-      {
-         "fileID":5301720,
-         "projectID":396803,
          "required":true
       },
       {
